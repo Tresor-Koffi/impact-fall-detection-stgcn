@@ -25,6 +25,27 @@ Falls represent a significant risk among elderly individuals. This work addresse
 4. **BiLSTM Enhancement**: Bidirectional analysis for precise impact moment detection
 5. **High Accuracy**: 97.5% accuracy in impact detection across various fall scenarios
 
+
+## 🔄 Methodology Overview
+
+### Complete Pipeline
+
+![Methodology Pipeline](images/methodology_pipeline.png)
+
+**Pipeline Overview**: The complete workflow consists of three main steps:
+1. **Data Acquisition**: Multimodal data from cameras and accelerometers
+2. **Preprocessing**: Image cropping, background removal, and pose estimation using MediaPipe BlazePose
+3. **Deep Learning**: STGCN-GRU-BiLSTM architecture for impact detection
+
+### STGCN-GRU-BiLSTM Architecture
+
+![Architecture Detail](images/architecture_detail.png)
+
+**Architecture Components**:
+- **STGCN**: Captures spatial-temporal relationships using 2-hop graph convolution
+- **GRU**: Efficient temporal modeling with attention mechanism
+- **BiLSTM**: Bidirectional analysis for precise impact moment detection
+
 ## 🚀 Key Results
 
 | Model Architecture | Accuracy | Precision | F1-Score |
@@ -249,3 +270,4 @@ For questions or collaborations:
 ---
 
 **Note**: This repository contains the implementation of deep learning-based impact detection published in the Journal of Healthcare Informatics Research (2025).
+
