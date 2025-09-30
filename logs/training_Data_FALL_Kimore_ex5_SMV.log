@@ -1,0 +1,1278 @@
+2025-01-08 22:36:31,459 - INFO - Starting training with parameters:
+2025-01-08 22:36:31,459 - INFO - Exercise: Data/FALL/Kimore_ex5/SMV
+2025-01-08 22:36:31,459 - INFO - Learning rate: 0.0001
+2025-01-08 22:36:31,460 - INFO - Epochs: 2
+2025-01-08 22:36:31,461 - INFO - Batch size: 1
+2025-01-08 22:36:31,992 - INFO - Original data shapes - X: (72, 100, 33, 3), Y: (72, 100)
+2025-01-08 22:36:31,997 - INFO - Training data shape: (57, 100, 33, 3)
+2025-01-08 22:36:31,997 - INFO - Training labels shape: (57, 100)
+2025-01-08 22:36:31,997 - INFO - Validation data shape: (15, 100, 33, 3)
+2025-01-08 22:36:31,997 - INFO - Validation labels shape: (15, 100)
+2025-01-08 22:36:31,998 - INFO - Training Class Distribution: [1788 3912]
+2025-01-08 22:36:33,073 - INFO - 
+Starting model training...
+2025-01-08 22:44:27,289 - INFO - Starting training with parameters:
+2025-01-08 22:44:27,290 - INFO - Exercise: Data/FALL/Kimore_ex5/SMV
+2025-01-08 22:44:27,290 - INFO - Learning rate: 0.0001
+2025-01-08 22:44:27,290 - INFO - Epochs: 2
+2025-01-08 22:44:27,290 - INFO - Batch size: 1
+2025-01-08 22:44:27,851 - INFO - Original data shapes - X: (72, 100, 33, 3), Y: (72, 100)
+2025-01-08 22:44:27,854 - INFO - Training data shape: (57, 100, 33, 3)
+2025-01-08 22:44:27,854 - INFO - Training labels shape: (57, 100)
+2025-01-08 22:44:27,854 - INFO - Validation data shape: (15, 100, 33, 3)
+2025-01-08 22:44:27,854 - INFO - Validation labels shape: (15, 100)
+2025-01-08 22:44:27,855 - INFO - Training Class Distribution: [1788 3912]
+2025-01-08 22:44:29,030 - INFO - 
+Starting model training...
+2025-01-08 22:44:54,132 - INFO - Starting training with parameters:
+2025-01-08 22:44:54,132 - INFO - Exercise: Data/FALL/Kimore_ex5/SMV
+2025-01-08 22:44:54,132 - INFO - Learning rate: 0.0001
+2025-01-08 22:44:54,132 - INFO - Epochs: 2
+2025-01-08 22:44:54,133 - INFO - Batch size: 1
+2025-01-08 22:44:54,695 - INFO - Original data shapes - X: (72, 100, 33, 3), Y: (72, 100)
+2025-01-08 22:44:54,698 - INFO - Training data shape: (57, 100, 33, 3)
+2025-01-08 22:44:54,698 - INFO - Training labels shape: (57, 100)
+2025-01-08 22:44:54,699 - INFO - Validation data shape: (15, 100, 33, 3)
+2025-01-08 22:44:54,699 - INFO - Validation labels shape: (15, 100)
+2025-01-08 22:44:54,699 - INFO - Training Class Distribution: [1788 3912]
+2025-01-08 22:44:55,880 - INFO - 
+Starting model training...
+2025-01-08 22:46:02,055 - INFO - Prediction shape: (15, 100)
+2025-01-08 22:46:02,055 - INFO - Validation target shape: (15, 100)
+2025-01-08 22:46:02,056 - INFO - Validation Accuracy: 0.4353
+2025-01-08 22:46:16,115 - INFO - Training completed. Results saved.
+2025-01-08 22:50:35,989 - INFO - Starting training with parameters:
+2025-01-08 22:50:35,990 - INFO - Exercise: Data/FALL/Kimore_ex5/SMV
+2025-01-08 22:50:35,990 - INFO - Learning rate: 0.0001
+2025-01-08 22:50:35,990 - INFO - Epochs: 2
+2025-01-08 22:50:35,991 - INFO - Batch size: 1
+2025-01-08 22:50:36,516 - INFO - Original data shapes - X: (72, 100, 33, 3), Y: (72, 100)
+2025-01-08 22:50:36,519 - INFO - Training data shape: (57, 100, 33, 3)
+2025-01-08 22:50:36,520 - INFO - Training labels shape: (57, 100)
+2025-01-08 22:50:36,520 - INFO - Validation data shape: (15, 100, 33, 3)
+2025-01-08 22:50:36,520 - INFO - Validation labels shape: (15, 100)
+2025-01-08 22:50:36,520 - INFO - Training Class Distribution: [1788 3912]
+2025-01-08 22:50:37,622 - INFO - 
+Starting model training...
+2025-01-08 22:51:39,100 - INFO - Prediction shape: (15, 100)
+2025-01-08 22:51:39,101 - INFO - Validation target shape: (15, 100)
+2025-01-08 22:51:39,101 - INFO - Validation Accuracy: 0.5020
+2025-01-08 22:51:52,107 - INFO - Training completed. Results saved.
+2025-01-08 22:54:57,777 - INFO - 
+Training Parameters:
+2025-01-08 22:54:57,778 - INFO - --------------------------------------------------
+2025-01-08 22:54:57,778 - INFO - ex: Data/FALL/Kimore_ex5/SMV
+2025-01-08 22:54:57,778 - INFO - lr: 0.0001
+2025-01-08 22:54:57,778 - INFO - epochs: 2
+2025-01-08 22:54:57,778 - INFO - batch_size: 1
+2025-01-08 22:54:57,778 - INFO - --------------------------------------------------
+2025-01-08 22:54:58,316 - INFO - 
+Data Shapes:
+2025-01-08 22:54:58,316 - INFO - --------------------------------------------------
+2025-01-08 22:54:58,316 - INFO - Training data (X): (57, 100, 33, 3)
+2025-01-08 22:54:58,316 - INFO - Training labels (Y): (57, 100)
+2025-01-08 22:54:58,317 - INFO - Validation data (X): (15, 100, 33, 3)
+2025-01-08 22:54:58,317 - INFO - Validation labels (Y): (15, 100)
+2025-01-08 22:54:58,317 - INFO - --------------------------------------------------
+2025-01-08 22:54:59,400 - INFO - 
+Model Architecture:
+2025-01-08 22:54:59,401 - INFO - --------------------------------------------------
+2025-01-08 22:54:59,401 - INFO - Model: "model_1"
+2025-01-08 22:54:59,402 - INFO - __________________________________________________________________________________________________
+2025-01-08 22:54:59,402 - INFO -  Layer (type)                   Output Shape         Param #     Connected to                     
+2025-01-08 22:54:59,402 - INFO - ==================================================================================================
+2025-01-08 22:54:59,403 - INFO -  input_2 (InputLayer)           [(None, None, 33, 3  0           []                               
+2025-01-08 22:54:59,403 - INFO -                                 )]                                                                
+2025-01-08 22:54:59,403 - INFO -                                                                                                   
+2025-01-08 22:54:59,404 - INFO -  conv2d_18 (Conv2D)             (None, None, 33, 64  1792        ['input_2[0][0]']                
+2025-01-08 22:54:59,404 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,404 - INFO -                                                                                                   
+2025-01-08 22:54:59,404 - INFO -  concatenate_9 (Concatenate)    (None, None, 33, 67  0           ['input_2[0][0]',                
+2025-01-08 22:54:59,404 - INFO -                                 )                                 'conv2d_18[0][0]']              
+2025-01-08 22:54:59,404 - INFO -                                                                                                   
+2025-01-08 22:54:59,405 - INFO -  conv2d_19 (Conv2D)             (None, None, 33, 64  4352        ['concatenate_9[0][0]']          
+2025-01-08 22:54:59,405 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,405 - INFO -                                                                                                   
+2025-01-08 22:54:59,405 - INFO -  conv2d_20 (Conv2D)             (None, None, 33, 64  4352        ['concatenate_9[0][0]']          
+2025-01-08 22:54:59,405 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,405 - INFO -                                                                                                   
+2025-01-08 22:54:59,406 - INFO -  tf.expand_dims_6 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_19[0][0]']              
+2025-01-08 22:54:59,406 - INFO -                                  64)                                                              
+2025-01-08 22:54:59,406 - INFO -                                                                                                   
+2025-01-08 22:54:59,407 - INFO -  tf.expand_dims_7 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_20[0][0]']              
+2025-01-08 22:54:59,407 - INFO -                                  64)                                                              
+2025-01-08 22:54:59,407 - INFO -                                                                                                   
+2025-01-08 22:54:59,407 - INFO -  conv_lstm2d_6 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_6[0][0]']       
+2025-01-08 22:54:59,408 - INFO -                                  33)                                                              
+2025-01-08 22:54:59,408 - INFO -                                                                                                   
+2025-01-08 22:54:59,408 - INFO -  conv_lstm2d_7 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_7[0][0]']       
+2025-01-08 22:54:59,408 - INFO -                                  33)                                                              
+2025-01-08 22:54:59,409 - INFO -                                                                                                   
+2025-01-08 22:54:59,409 - INFO -  tf.__operators__.getitem_6 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_6[0][0]']          
+2025-01-08 22:54:59,409 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-08 22:54:59,409 - INFO -                                                                                                   
+2025-01-08 22:54:59,410 - INFO -  tf.__operators__.getitem_7 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_7[0][0]']          
+2025-01-08 22:54:59,410 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-08 22:54:59,410 - INFO -                                                                                                   
+2025-01-08 22:54:59,410 - INFO -  tf.nn.leaky_relu_6 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_6[0][0
+2025-01-08 22:54:59,410 - INFO -  )                              )                                ]']                              
+2025-01-08 22:54:59,411 - INFO -                                                                                                   
+2025-01-08 22:54:59,411 - INFO -  tf.nn.leaky_relu_7 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_7[0][0
+2025-01-08 22:54:59,411 - INFO -  )                              )                                ]']                              
+2025-01-08 22:54:59,411 - INFO -                                                                                                   
+2025-01-08 22:54:59,412 - INFO -  tf.__operators__.add_8 (TFOpLa  (None, None, 33, 33  0          ['tf.nn.leaky_relu_6[0][0]']     
+2025-01-08 22:54:59,412 - INFO -  mbda)                          )                                                                 
+2025-01-08 22:54:59,412 - INFO -                                                                                                   
+2025-01-08 22:54:59,412 - INFO -  tf.__operators__.add_9 (TFOpLa  (None, None, 33, 33  0          ['tf.nn.leaky_relu_7[0][0]']     
+2025-01-08 22:54:59,412 - INFO -  mbda)                          )                                                                 
+2025-01-08 22:54:59,412 - INFO -                                                                                                   
+2025-01-08 22:54:59,413 - INFO -  tf.nn.softmax_6 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_8[0][0]'] 
+2025-01-08 22:54:59,413 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,413 - INFO -                                                                                                   
+2025-01-08 22:54:59,413 - INFO -  tf.nn.softmax_7 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_9[0][0]'] 
+2025-01-08 22:54:59,413 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,413 - INFO -                                                                                                   
+2025-01-08 22:54:59,414 - INFO -  lambda_6 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_6[0][0]',        
+2025-01-08 22:54:59,414 - INFO -                                 )                                 'conv2d_19[0][0]']              
+2025-01-08 22:54:59,414 - INFO -                                                                                                   
+2025-01-08 22:54:59,414 - INFO -  lambda_7 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_7[0][0]',        
+2025-01-08 22:54:59,414 - INFO -                                 )                                 'conv2d_20[0][0]']              
+2025-01-08 22:54:59,415 - INFO -                                                                                                   
+2025-01-08 22:54:59,415 - INFO -  concatenate_10 (Concatenate)   (None, None, 33, 12  0           ['lambda_6[0][0]',               
+2025-01-08 22:54:59,415 - INFO -                                 8)                                'lambda_7[0][0]']               
+2025-01-08 22:54:59,415 - INFO -                                                                                                   
+2025-01-08 22:54:59,415 - INFO -  conv2d_21 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_10[0][0]']         
+2025-01-08 22:54:59,415 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,416 - INFO -                                                                                                   
+2025-01-08 22:54:59,416 - INFO -  dropout_13 (Dropout)           (None, None, 33, 16  0           ['conv2d_21[0][0]']              
+2025-01-08 22:54:59,416 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,416 - INFO -                                                                                                   
+2025-01-08 22:54:59,416 - INFO -  conv2d_22 (Conv2D)             (None, None, 33, 16  3856        ['dropout_13[0][0]']             
+2025-01-08 22:54:59,416 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,417 - INFO -                                                                                                   
+2025-01-08 22:54:59,417 - INFO -  dropout_14 (Dropout)           (None, None, 33, 16  0           ['conv2d_22[0][0]']              
+2025-01-08 22:54:59,417 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,417 - INFO -                                                                                                   
+2025-01-08 22:54:59,418 - INFO -  conv2d_23 (Conv2D)             (None, None, 33, 16  5136        ['dropout_14[0][0]']             
+2025-01-08 22:54:59,418 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,418 - INFO -                                                                                                   
+2025-01-08 22:54:59,418 - INFO -  dropout_15 (Dropout)           (None, None, 33, 16  0           ['conv2d_23[0][0]']              
+2025-01-08 22:54:59,418 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,418 - INFO -                                                                                                   
+2025-01-08 22:54:59,419 - INFO -  concatenate_11 (Concatenate)   (None, None, 33, 48  0           ['dropout_13[0][0]',             
+2025-01-08 22:54:59,419 - INFO -                                 )                                 'dropout_14[0][0]',             
+2025-01-08 22:54:59,419 - INFO -                                                                   'dropout_15[0][0]']             
+2025-01-08 22:54:59,419 - INFO -                                                                                                   
+2025-01-08 22:54:59,419 - INFO -  conv2d_24 (Conv2D)             (None, None, 33, 64  27712       ['concatenate_11[0][0]']         
+2025-01-08 22:54:59,420 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,420 - INFO -                                                                                                   
+2025-01-08 22:54:59,420 - INFO -  concatenate_12 (Concatenate)   (None, None, 33, 11  0           ['concatenate_11[0][0]',         
+2025-01-08 22:54:59,420 - INFO -                                 2)                                'conv2d_24[0][0]']              
+2025-01-08 22:54:59,421 - INFO -                                                                                                   
+2025-01-08 22:54:59,421 - INFO -  conv2d_25 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_12[0][0]']         
+2025-01-08 22:54:59,422 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,422 - INFO -                                                                                                   
+2025-01-08 22:54:59,422 - INFO -  conv2d_26 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_12[0][0]']         
+2025-01-08 22:54:59,422 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,423 - INFO -                                                                                                   
+2025-01-08 22:54:59,423 - INFO -  tf.expand_dims_8 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_25[0][0]']              
+2025-01-08 22:54:59,424 - INFO -                                  64)                                                              
+2025-01-08 22:54:59,424 - INFO -                                                                                                   
+2025-01-08 22:54:59,424 - INFO -  tf.expand_dims_9 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_26[0][0]']              
+2025-01-08 22:54:59,425 - INFO -                                  64)                                                              
+2025-01-08 22:54:59,425 - INFO -                                                                                                   
+2025-01-08 22:54:59,426 - INFO -  conv_lstm2d_8 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_8[0][0]']       
+2025-01-08 22:54:59,426 - INFO -                                  33)                                                              
+2025-01-08 22:54:59,426 - INFO -                                                                                                   
+2025-01-08 22:54:59,427 - INFO -  conv_lstm2d_9 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_9[0][0]']       
+2025-01-08 22:54:59,427 - INFO -                                  33)                                                              
+2025-01-08 22:54:59,427 - INFO -                                                                                                   
+2025-01-08 22:54:59,428 - INFO -  tf.__operators__.getitem_8 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_8[0][0]']          
+2025-01-08 22:54:59,428 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-08 22:54:59,428 - INFO -                                                                                                   
+2025-01-08 22:54:59,429 - INFO -  tf.__operators__.getitem_9 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_9[0][0]']          
+2025-01-08 22:54:59,429 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-08 22:54:59,429 - INFO -                                                                                                   
+2025-01-08 22:54:59,430 - INFO -  tf.nn.leaky_relu_8 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_8[0][0
+2025-01-08 22:54:59,430 - INFO -  )                              )                                ]']                              
+2025-01-08 22:54:59,430 - INFO -                                                                                                   
+2025-01-08 22:54:59,430 - INFO -  tf.nn.leaky_relu_9 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_9[0][0
+2025-01-08 22:54:59,431 - INFO -  )                              )                                ]']                              
+2025-01-08 22:54:59,431 - INFO -                                                                                                   
+2025-01-08 22:54:59,431 - INFO -  tf.__operators__.add_10 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_8[0][0]']     
+2025-01-08 22:54:59,431 - INFO -  ambda)                         )                                                                 
+2025-01-08 22:54:59,432 - INFO -                                                                                                   
+2025-01-08 22:54:59,432 - INFO -  tf.__operators__.add_11 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_9[0][0]']     
+2025-01-08 22:54:59,432 - INFO -  ambda)                         )                                                                 
+2025-01-08 22:54:59,433 - INFO -                                                                                                   
+2025-01-08 22:54:59,433 - INFO -  tf.nn.softmax_8 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_10[0][0]']
+2025-01-08 22:54:59,433 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,433 - INFO -                                                                                                   
+2025-01-08 22:54:59,434 - INFO -  tf.nn.softmax_9 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_11[0][0]']
+2025-01-08 22:54:59,434 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,434 - INFO -                                                                                                   
+2025-01-08 22:54:59,435 - INFO -  lambda_8 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_8[0][0]',        
+2025-01-08 22:54:59,435 - INFO -                                 )                                 'conv2d_25[0][0]']              
+2025-01-08 22:54:59,435 - INFO -                                                                                                   
+2025-01-08 22:54:59,436 - INFO -  lambda_9 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_9[0][0]',        
+2025-01-08 22:54:59,436 - INFO -                                 )                                 'conv2d_26[0][0]']              
+2025-01-08 22:54:59,436 - INFO -                                                                                                   
+2025-01-08 22:54:59,436 - INFO -  concatenate_13 (Concatenate)   (None, None, 33, 12  0           ['lambda_8[0][0]',               
+2025-01-08 22:54:59,437 - INFO -                                 8)                                'lambda_9[0][0]']               
+2025-01-08 22:54:59,437 - INFO -                                                                                                   
+2025-01-08 22:54:59,437 - INFO -  conv2d_27 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_13[0][0]']         
+2025-01-08 22:54:59,437 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,438 - INFO -                                                                                                   
+2025-01-08 22:54:59,438 - INFO -  dropout_16 (Dropout)           (None, None, 33, 16  0           ['conv2d_27[0][0]']              
+2025-01-08 22:54:59,438 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,439 - INFO -                                                                                                   
+2025-01-08 22:54:59,439 - INFO -  conv2d_28 (Conv2D)             (None, None, 33, 16  3856        ['dropout_16[0][0]']             
+2025-01-08 22:54:59,439 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,440 - INFO -                                                                                                   
+2025-01-08 22:54:59,440 - INFO -  dropout_17 (Dropout)           (None, None, 33, 16  0           ['conv2d_28[0][0]']              
+2025-01-08 22:54:59,440 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,441 - INFO -                                                                                                   
+2025-01-08 22:54:59,441 - INFO -  conv2d_29 (Conv2D)             (None, None, 33, 16  5136        ['dropout_17[0][0]']             
+2025-01-08 22:54:59,441 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,442 - INFO -                                                                                                   
+2025-01-08 22:54:59,442 - INFO -  dropout_18 (Dropout)           (None, None, 33, 16  0           ['conv2d_29[0][0]']              
+2025-01-08 22:54:59,442 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,442 - INFO -                                                                                                   
+2025-01-08 22:54:59,443 - INFO -  concatenate_14 (Concatenate)   (None, None, 33, 48  0           ['dropout_16[0][0]',             
+2025-01-08 22:54:59,443 - INFO -                                 )                                 'dropout_17[0][0]',             
+2025-01-08 22:54:59,443 - INFO -                                                                   'dropout_18[0][0]']             
+2025-01-08 22:54:59,443 - INFO -                                                                                                   
+2025-01-08 22:54:59,444 - INFO -  tf.__operators__.add_12 (TFOpL  (None, None, 33, 48  0          ['concatenate_11[0][0]',         
+2025-01-08 22:54:59,444 - INFO -  ambda)                         )                                 'concatenate_14[0][0]']         
+2025-01-08 22:54:59,444 - INFO -                                                                                                   
+2025-01-08 22:54:59,444 - INFO -  conv2d_30 (Conv2D)             (None, None, 33, 64  27712       ['tf.__operators__.add_12[0][0]']
+2025-01-08 22:54:59,445 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,445 - INFO -                                                                                                   
+2025-01-08 22:54:59,445 - INFO -  concatenate_15 (Concatenate)   (None, None, 33, 11  0           ['tf.__operators__.add_12[0][0]',
+2025-01-08 22:54:59,445 - INFO -                                 2)                                'conv2d_30[0][0]']              
+2025-01-08 22:54:59,445 - INFO -                                                                                                   
+2025-01-08 22:54:59,446 - INFO -  conv2d_31 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_15[0][0]']         
+2025-01-08 22:54:59,446 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,446 - INFO -                                                                                                   
+2025-01-08 22:54:59,446 - INFO -  conv2d_32 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_15[0][0]']         
+2025-01-08 22:54:59,446 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,446 - INFO -                                                                                                   
+2025-01-08 22:54:59,447 - INFO -  tf.expand_dims_10 (TFOpLambda)  (None, None, 33, 1,  0          ['conv2d_31[0][0]']              
+2025-01-08 22:54:59,447 - INFO -                                  64)                                                              
+2025-01-08 22:54:59,447 - INFO -                                                                                                   
+2025-01-08 22:54:59,447 - INFO -  tf.expand_dims_11 (TFOpLambda)  (None, None, 33, 1,  0          ['conv2d_32[0][0]']              
+2025-01-08 22:54:59,448 - INFO -                                  64)                                                              
+2025-01-08 22:54:59,448 - INFO -                                                                                                   
+2025-01-08 22:54:59,448 - INFO -  conv_lstm2d_10 (ConvLSTM2D)    (None, None, 33, 1,  12936       ['tf.expand_dims_10[0][0]']      
+2025-01-08 22:54:59,448 - INFO -                                  33)                                                              
+2025-01-08 22:54:59,448 - INFO -                                                                                                   
+2025-01-08 22:54:59,449 - INFO -  conv_lstm2d_11 (ConvLSTM2D)    (None, None, 33, 1,  12936       ['tf.expand_dims_11[0][0]']      
+2025-01-08 22:54:59,449 - INFO -                                  33)                                                              
+2025-01-08 22:54:59,449 - INFO -                                                                                                   
+2025-01-08 22:54:59,449 - INFO -  tf.__operators__.getitem_10 (S  (None, None, 33, 33  0          ['conv_lstm2d_10[0][0]']         
+2025-01-08 22:54:59,449 - INFO -  licingOpLambda)                )                                                                 
+2025-01-08 22:54:59,450 - INFO -                                                                                                   
+2025-01-08 22:54:59,450 - INFO -  tf.__operators__.getitem_11 (S  (None, None, 33, 33  0          ['conv_lstm2d_11[0][0]']         
+2025-01-08 22:54:59,450 - INFO -  licingOpLambda)                )                                                                 
+2025-01-08 22:54:59,451 - INFO -                                                                                                   
+2025-01-08 22:54:59,451 - INFO -  tf.nn.leaky_relu_10 (TFOpLambd  (None, None, 33, 33  0          ['tf.__operators__.getitem_10[0][
+2025-01-08 22:54:59,451 - INFO -  a)                             )                                0]']                             
+2025-01-08 22:54:59,451 - INFO -                                                                                                   
+2025-01-08 22:54:59,452 - INFO -  tf.nn.leaky_relu_11 (TFOpLambd  (None, None, 33, 33  0          ['tf.__operators__.getitem_11[0][
+2025-01-08 22:54:59,452 - INFO -  a)                             )                                0]']                             
+2025-01-08 22:54:59,452 - INFO -                                                                                                   
+2025-01-08 22:54:59,453 - INFO -  tf.__operators__.add_13 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_10[0][0]']    
+2025-01-08 22:54:59,453 - INFO -  ambda)                         )                                                                 
+2025-01-08 22:54:59,453 - INFO -                                                                                                   
+2025-01-08 22:54:59,453 - INFO -  tf.__operators__.add_14 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_11[0][0]']    
+2025-01-08 22:54:59,454 - INFO -  ambda)                         )                                                                 
+2025-01-08 22:54:59,454 - INFO -                                                                                                   
+2025-01-08 22:54:59,454 - INFO -  tf.nn.softmax_10 (TFOpLambda)  (None, None, 33, 33  0           ['tf.__operators__.add_13[0][0]']
+2025-01-08 22:54:59,454 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,455 - INFO -                                                                                                   
+2025-01-08 22:54:59,455 - INFO -  tf.nn.softmax_11 (TFOpLambda)  (None, None, 33, 33  0           ['tf.__operators__.add_14[0][0]']
+2025-01-08 22:54:59,456 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,456 - INFO -                                                                                                   
+2025-01-08 22:54:59,456 - INFO -  lambda_10 (Lambda)             (None, None, 33, 64  0           ['tf.nn.softmax_10[0][0]',       
+2025-01-08 22:54:59,456 - INFO -                                 )                                 'conv2d_31[0][0]']              
+2025-01-08 22:54:59,457 - INFO -                                                                                                   
+2025-01-08 22:54:59,457 - INFO -  lambda_11 (Lambda)             (None, None, 33, 64  0           ['tf.nn.softmax_11[0][0]',       
+2025-01-08 22:54:59,457 - INFO -                                 )                                 'conv2d_32[0][0]']              
+2025-01-08 22:54:59,457 - INFO -                                                                                                   
+2025-01-08 22:54:59,458 - INFO -  concatenate_16 (Concatenate)   (None, None, 33, 12  0           ['lambda_10[0][0]',              
+2025-01-08 22:54:59,458 - INFO -                                 8)                                'lambda_11[0][0]']              
+2025-01-08 22:54:59,458 - INFO -                                                                                                   
+2025-01-08 22:54:59,458 - INFO -  conv2d_33 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_16[0][0]']         
+2025-01-08 22:54:59,458 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,459 - INFO -                                                                                                   
+2025-01-08 22:54:59,459 - INFO -  dropout_19 (Dropout)           (None, None, 33, 16  0           ['conv2d_33[0][0]']              
+2025-01-08 22:54:59,459 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,459 - INFO -                                                                                                   
+2025-01-08 22:54:59,460 - INFO -  conv2d_34 (Conv2D)             (None, None, 33, 16  3856        ['dropout_19[0][0]']             
+2025-01-08 22:54:59,460 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,460 - INFO -                                                                                                   
+2025-01-08 22:54:59,460 - INFO -  dropout_20 (Dropout)           (None, None, 33, 16  0           ['conv2d_34[0][0]']              
+2025-01-08 22:54:59,460 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,460 - INFO -                                                                                                   
+2025-01-08 22:54:59,461 - INFO -  conv2d_35 (Conv2D)             (None, None, 33, 16  5136        ['dropout_20[0][0]']             
+2025-01-08 22:54:59,461 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,461 - INFO -                                                                                                   
+2025-01-08 22:54:59,461 - INFO -  dropout_21 (Dropout)           (None, None, 33, 16  0           ['conv2d_35[0][0]']              
+2025-01-08 22:54:59,461 - INFO -                                 )                                                                 
+2025-01-08 22:54:59,462 - INFO -                                                                                                   
+2025-01-08 22:54:59,462 - INFO -  concatenate_17 (Concatenate)   (None, None, 33, 48  0           ['dropout_19[0][0]',             
+2025-01-08 22:54:59,462 - INFO -                                 )                                 'dropout_20[0][0]',             
+2025-01-08 22:54:59,462 - INFO -                                                                   'dropout_21[0][0]']             
+2025-01-08 22:54:59,462 - INFO -                                                                                                   
+2025-01-08 22:54:59,463 - INFO -  tf.__operators__.add_15 (TFOpL  (None, None, 33, 48  0          ['tf.__operators__.add_12[0][0]',
+2025-01-08 22:54:59,463 - INFO -  ambda)                         )                                 'concatenate_17[0][0]']         
+2025-01-08 22:54:59,463 - INFO -                                                                                                   
+2025-01-08 22:54:59,463 - INFO -  reshape_1 (Reshape)            (None, None, 1584)   0           ['tf.__operators__.add_15[0][0]']
+2025-01-08 22:54:59,463 - INFO -                                                                                                   
+2025-01-08 22:54:59,464 - INFO -  bidirectional_2 (Bidirectional  (None, None, 160)   1065600     ['reshape_1[0][0]']              
+2025-01-08 22:54:59,464 - INFO -  )                                                                                                
+2025-01-08 22:54:59,464 - INFO -                                                                                                   
+2025-01-08 22:54:59,464 - INFO -  dropout_22 (Dropout)           (None, None, 160)    0           ['bidirectional_2[0][0]']        
+2025-01-08 22:54:59,464 - INFO -                                                                                                   
+2025-01-08 22:54:59,465 - INFO -  gru_2 (GRU)                    (None, None, 40)     24240       ['dropout_22[0][0]']             
+2025-01-08 22:54:59,465 - INFO -                                                                                                   
+2025-01-08 22:54:59,465 - INFO -  dropout_23 (Dropout)           (None, None, 40)     0           ['gru_2[0][0]']                  
+2025-01-08 22:54:59,465 - INFO -                                                                                                   
+2025-01-08 22:54:59,466 - INFO -  bidirectional_3 (Bidirectional  (None, None, 80)    25920       ['dropout_23[0][0]']             
+2025-01-08 22:54:59,466 - INFO -  )                                                                                                
+2025-01-08 22:54:59,466 - INFO -                                                                                                   
+2025-01-08 22:54:59,466 - INFO -  dropout_24 (Dropout)           (None, None, 80)     0           ['bidirectional_3[0][0]']        
+2025-01-08 22:54:59,467 - INFO -                                                                                                   
+2025-01-08 22:54:59,467 - INFO -  gru_3 (GRU)                    (None, 80)           38880       ['dropout_24[0][0]']             
+2025-01-08 22:54:59,467 - INFO -                                                                                                   
+2025-01-08 22:54:59,467 - INFO -  dropout_25 (Dropout)           (None, 80)           0           ['gru_3[0][0]']                  
+2025-01-08 22:54:59,467 - INFO -                                                                                                   
+2025-01-08 22:54:59,468 - INFO -  dense_1 (Dense)                (None, 100)          8100        ['dropout_25[0][0]']             
+2025-01-08 22:54:59,468 - INFO -                                                                                                   
+2025-01-08 22:54:59,468 - INFO - ==================================================================================================
+2025-01-08 22:54:59,469 - INFO - Total params: 1,417,524
+2025-01-08 22:54:59,469 - INFO - Trainable params: 1,417,524
+2025-01-08 22:54:59,470 - INFO - Non-trainable params: 0
+2025-01-08 22:54:59,470 - INFO - __________________________________________________________________________________________________
+2025-01-08 22:54:59,471 - INFO - 
+Parameter Summary:
+2025-01-08 22:54:59,471 - INFO - --------------------------------------------------
+2025-01-08 22:54:59,472 - INFO - Total Parameters: 1,417,524.0
+2025-01-08 22:54:59,472 - INFO - Trainable Parameters: 1,417,524
+2025-01-08 22:54:59,473 - INFO - Non-trainable Parameters: 0.0
+2025-01-08 22:54:59,473 - INFO - --------------------------------------------------
+2025-01-08 22:54:59,473 - INFO - 
+Parameters by Layer:
+2025-01-08 22:54:59,473 - INFO - --------------------------------------------------
+2025-01-08 22:54:59,473 - INFO - Layer Name                     Output Shape         Param #      Trainable
+2025-01-08 22:54:59,473 - INFO - --------------------------------------------------
+2025-01-08 22:54:59,474 - INFO - input_2                        [(None, None, 33, 3)] 0            Yes
+2025-01-08 22:54:59,474 - INFO - conv2d_18                      (None, None, 33, 64) 1,792        Yes
+2025-01-08 22:54:59,474 - INFO - concatenate_9                  (None, None, 33, 67) 0            Yes
+2025-01-08 22:54:59,474 - INFO - conv2d_19                      (None, None, 33, 64) 4,352        Yes
+2025-01-08 22:54:59,475 - INFO - conv2d_20                      (None, None, 33, 64) 4,352        Yes
+2025-01-08 22:54:59,475 - INFO - tf.expand_dims_6               (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:54:59,475 - INFO - tf.expand_dims_7               (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:54:59,475 - INFO - conv_lstm2d_6                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:54:59,476 - INFO - conv_lstm2d_7                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:54:59,476 - INFO - tf.__operators__.getitem_6     (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,476 - INFO - tf.__operators__.getitem_7     (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,476 - INFO - tf.nn.leaky_relu_6             (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,476 - INFO - tf.nn.leaky_relu_7             (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,477 - INFO - tf.__operators__.add_8         (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,477 - INFO - tf.__operators__.add_9         (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,477 - INFO - tf.nn.softmax_6                (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,477 - INFO - tf.nn.softmax_7                (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,478 - INFO - lambda_6                       (None, None, 33, 64) 0            Yes
+2025-01-08 22:54:59,478 - INFO - lambda_7                       (None, None, 33, 64) 0            Yes
+2025-01-08 22:54:59,478 - INFO - concatenate_10                 (None, None, 33, 128) 0            Yes
+2025-01-08 22:54:59,478 - INFO - conv2d_21                      (None, None, 33, 16) 18,448       Yes
+2025-01-08 22:54:59,478 - INFO - dropout_13                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,479 - INFO - conv2d_22                      (None, None, 33, 16) 3,856        Yes
+2025-01-08 22:54:59,479 - INFO - dropout_14                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,479 - INFO - conv2d_23                      (None, None, 33, 16) 5,136        Yes
+2025-01-08 22:54:59,479 - INFO - dropout_15                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,479 - INFO - concatenate_11                 (None, None, 33, 48) 0            Yes
+2025-01-08 22:54:59,480 - INFO - conv2d_24                      (None, None, 33, 64) 27,712       Yes
+2025-01-08 22:54:59,480 - INFO - concatenate_12                 (None, None, 33, 112) 0            Yes
+2025-01-08 22:54:59,480 - INFO - conv2d_25                      (None, None, 33, 64) 7,232        Yes
+2025-01-08 22:54:59,480 - INFO - conv2d_26                      (None, None, 33, 64) 7,232        Yes
+2025-01-08 22:54:59,481 - INFO - tf.expand_dims_8               (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:54:59,481 - INFO - tf.expand_dims_9               (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:54:59,481 - INFO - conv_lstm2d_8                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:54:59,481 - INFO - conv_lstm2d_9                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:54:59,481 - INFO - tf.__operators__.getitem_8     (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,482 - INFO - tf.__operators__.getitem_9     (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,482 - INFO - tf.nn.leaky_relu_8             (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,482 - INFO - tf.nn.leaky_relu_9             (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,483 - INFO - tf.__operators__.add_10        (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,483 - INFO - tf.__operators__.add_11        (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,483 - INFO - tf.nn.softmax_8                (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,483 - INFO - tf.nn.softmax_9                (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,484 - INFO - lambda_8                       (None, None, 33, 64) 0            Yes
+2025-01-08 22:54:59,484 - INFO - lambda_9                       (None, None, 33, 64) 0            Yes
+2025-01-08 22:54:59,484 - INFO - concatenate_13                 (None, None, 33, 128) 0            Yes
+2025-01-08 22:54:59,485 - INFO - conv2d_27                      (None, None, 33, 16) 18,448       Yes
+2025-01-08 22:54:59,485 - INFO - dropout_16                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,485 - INFO - conv2d_28                      (None, None, 33, 16) 3,856        Yes
+2025-01-08 22:54:59,485 - INFO - dropout_17                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,485 - INFO - conv2d_29                      (None, None, 33, 16) 5,136        Yes
+2025-01-08 22:54:59,486 - INFO - dropout_18                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,486 - INFO - concatenate_14                 (None, None, 33, 48) 0            Yes
+2025-01-08 22:54:59,486 - INFO - tf.__operators__.add_12        (None, None, 33, 48) 0            Yes
+2025-01-08 22:54:59,486 - INFO - conv2d_30                      (None, None, 33, 64) 27,712       Yes
+2025-01-08 22:54:59,487 - INFO - concatenate_15                 (None, None, 33, 112) 0            Yes
+2025-01-08 22:54:59,487 - INFO - conv2d_31                      (None, None, 33, 64) 7,232        Yes
+2025-01-08 22:54:59,487 - INFO - conv2d_32                      (None, None, 33, 64) 7,232        Yes
+2025-01-08 22:54:59,487 - INFO - tf.expand_dims_10              (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:54:59,487 - INFO - tf.expand_dims_11              (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:54:59,488 - INFO - conv_lstm2d_10                 (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:54:59,488 - INFO - conv_lstm2d_11                 (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:54:59,488 - INFO - tf.__operators__.getitem_10    (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,488 - INFO - tf.__operators__.getitem_11    (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,488 - INFO - tf.nn.leaky_relu_10            (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,489 - INFO - tf.nn.leaky_relu_11            (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,489 - INFO - tf.__operators__.add_13        (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,489 - INFO - tf.__operators__.add_14        (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,489 - INFO - tf.nn.softmax_10               (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,489 - INFO - tf.nn.softmax_11               (None, None, 33, 33) 0            Yes
+2025-01-08 22:54:59,489 - INFO - lambda_10                      (None, None, 33, 64) 0            Yes
+2025-01-08 22:54:59,490 - INFO - lambda_11                      (None, None, 33, 64) 0            Yes
+2025-01-08 22:54:59,490 - INFO - concatenate_16                 (None, None, 33, 128) 0            Yes
+2025-01-08 22:54:59,490 - INFO - conv2d_33                      (None, None, 33, 16) 18,448       Yes
+2025-01-08 22:54:59,490 - INFO - dropout_19                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,491 - INFO - conv2d_34                      (None, None, 33, 16) 3,856        Yes
+2025-01-08 22:54:59,491 - INFO - dropout_20                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,491 - INFO - conv2d_35                      (None, None, 33, 16) 5,136        Yes
+2025-01-08 22:54:59,491 - INFO - dropout_21                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:54:59,492 - INFO - concatenate_17                 (None, None, 33, 48) 0            Yes
+2025-01-08 22:54:59,492 - INFO - tf.__operators__.add_15        (None, None, 33, 48) 0            Yes
+2025-01-08 22:54:59,492 - INFO - reshape_1                      (None, None, 1584)   0            Yes
+2025-01-08 22:54:59,492 - INFO - bidirectional_2                (None, None, 160)    1,065,600    Yes
+2025-01-08 22:54:59,493 - INFO - dropout_22                     (None, None, 160)    0            Yes
+2025-01-08 22:54:59,493 - INFO - gru_2                          (None, None, 40)     24,240       Yes
+2025-01-08 22:54:59,493 - INFO - dropout_23                     (None, None, 40)     0            Yes
+2025-01-08 22:54:59,493 - INFO - bidirectional_3                (None, None, 80)     25,920       Yes
+2025-01-08 22:54:59,494 - INFO - dropout_24                     (None, None, 80)     0            Yes
+2025-01-08 22:54:59,494 - INFO - gru_3                          (None, 80)           38,880       Yes
+2025-01-08 22:54:59,494 - INFO - dropout_25                     (None, 80)           0            Yes
+2025-01-08 22:54:59,494 - INFO - dense_1                        (None, 100)          8,100        Yes
+2025-01-08 22:54:59,494 - INFO - --------------------------------------------------
+2025-01-08 22:54:59,494 - INFO - 
+Starting Training...
+2025-01-08 22:55:59,882 - INFO - 
+Training Results:
+2025-01-08 22:55:59,882 - INFO - --------------------------------------------------
+2025-01-08 22:55:59,883 - INFO - Final Validation Accuracy: 0.4813
+2025-01-08 22:56:00,123 - INFO - 
+Training completed. Results saved.
+2025-01-08 22:57:38,757 - INFO - 
+Training Parameters:
+2025-01-08 22:57:38,758 - INFO - --------------------------------------------------
+2025-01-08 22:57:38,758 - INFO - ex: Data/FALL/Kimore_ex5/SMV
+2025-01-08 22:57:38,758 - INFO - lr: 0.0001
+2025-01-08 22:57:38,758 - INFO - epochs: 300
+2025-01-08 22:57:38,758 - INFO - batch_size: 1
+2025-01-08 22:57:38,759 - INFO - --------------------------------------------------
+2025-01-08 22:57:39,289 - INFO - 
+Data Shapes:
+2025-01-08 22:57:39,290 - INFO - --------------------------------------------------
+2025-01-08 22:57:39,290 - INFO - Training data (X): (57, 100, 33, 3)
+2025-01-08 22:57:39,290 - INFO - Training labels (Y): (57, 100)
+2025-01-08 22:57:39,290 - INFO - Validation data (X): (15, 100, 33, 3)
+2025-01-08 22:57:39,291 - INFO - Validation labels (Y): (15, 100)
+2025-01-08 22:57:39,291 - INFO - --------------------------------------------------
+2025-01-08 22:57:40,402 - INFO - 
+Model Architecture:
+2025-01-08 22:57:40,402 - INFO - --------------------------------------------------
+2025-01-08 22:57:40,403 - INFO - Model: "model_1"
+2025-01-08 22:57:40,403 - INFO - __________________________________________________________________________________________________
+2025-01-08 22:57:40,404 - INFO -  Layer (type)                   Output Shape         Param #     Connected to                     
+2025-01-08 22:57:40,404 - INFO - ==================================================================================================
+2025-01-08 22:57:40,405 - INFO -  input_2 (InputLayer)           [(None, None, 33, 3  0           []                               
+2025-01-08 22:57:40,405 - INFO -                                 )]                                                                
+2025-01-08 22:57:40,405 - INFO -                                                                                                   
+2025-01-08 22:57:40,405 - INFO -  conv2d_18 (Conv2D)             (None, None, 33, 64  1792        ['input_2[0][0]']                
+2025-01-08 22:57:40,405 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,406 - INFO -                                                                                                   
+2025-01-08 22:57:40,406 - INFO -  concatenate_9 (Concatenate)    (None, None, 33, 67  0           ['input_2[0][0]',                
+2025-01-08 22:57:40,406 - INFO -                                 )                                 'conv2d_18[0][0]']              
+2025-01-08 22:57:40,406 - INFO -                                                                                                   
+2025-01-08 22:57:40,406 - INFO -  conv2d_19 (Conv2D)             (None, None, 33, 64  4352        ['concatenate_9[0][0]']          
+2025-01-08 22:57:40,407 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,407 - INFO -                                                                                                   
+2025-01-08 22:57:40,407 - INFO -  conv2d_20 (Conv2D)             (None, None, 33, 64  4352        ['concatenate_9[0][0]']          
+2025-01-08 22:57:40,407 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,407 - INFO -                                                                                                   
+2025-01-08 22:57:40,408 - INFO -  tf.expand_dims_6 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_19[0][0]']              
+2025-01-08 22:57:40,408 - INFO -                                  64)                                                              
+2025-01-08 22:57:40,408 - INFO -                                                                                                   
+2025-01-08 22:57:40,408 - INFO -  tf.expand_dims_7 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_20[0][0]']              
+2025-01-08 22:57:40,408 - INFO -                                  64)                                                              
+2025-01-08 22:57:40,408 - INFO -                                                                                                   
+2025-01-08 22:57:40,409 - INFO -  conv_lstm2d_6 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_6[0][0]']       
+2025-01-08 22:57:40,409 - INFO -                                  33)                                                              
+2025-01-08 22:57:40,409 - INFO -                                                                                                   
+2025-01-08 22:57:40,409 - INFO -  conv_lstm2d_7 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_7[0][0]']       
+2025-01-08 22:57:40,410 - INFO -                                  33)                                                              
+2025-01-08 22:57:40,410 - INFO -                                                                                                   
+2025-01-08 22:57:40,410 - INFO -  tf.__operators__.getitem_6 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_6[0][0]']          
+2025-01-08 22:57:40,410 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-08 22:57:40,410 - INFO -                                                                                                   
+2025-01-08 22:57:40,410 - INFO -  tf.__operators__.getitem_7 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_7[0][0]']          
+2025-01-08 22:57:40,411 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-08 22:57:40,411 - INFO -                                                                                                   
+2025-01-08 22:57:40,411 - INFO -  tf.nn.leaky_relu_6 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_6[0][0
+2025-01-08 22:57:40,411 - INFO -  )                              )                                ]']                              
+2025-01-08 22:57:40,411 - INFO -                                                                                                   
+2025-01-08 22:57:40,412 - INFO -  tf.nn.leaky_relu_7 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_7[0][0
+2025-01-08 22:57:40,412 - INFO -  )                              )                                ]']                              
+2025-01-08 22:57:40,412 - INFO -                                                                                                   
+2025-01-08 22:57:40,412 - INFO -  tf.__operators__.add_8 (TFOpLa  (None, None, 33, 33  0          ['tf.nn.leaky_relu_6[0][0]']     
+2025-01-08 22:57:40,412 - INFO -  mbda)                          )                                                                 
+2025-01-08 22:57:40,412 - INFO -                                                                                                   
+2025-01-08 22:57:40,413 - INFO -  tf.__operators__.add_9 (TFOpLa  (None, None, 33, 33  0          ['tf.nn.leaky_relu_7[0][0]']     
+2025-01-08 22:57:40,413 - INFO -  mbda)                          )                                                                 
+2025-01-08 22:57:40,413 - INFO -                                                                                                   
+2025-01-08 22:57:40,413 - INFO -  tf.nn.softmax_6 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_8[0][0]'] 
+2025-01-08 22:57:40,413 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,414 - INFO -                                                                                                   
+2025-01-08 22:57:40,414 - INFO -  tf.nn.softmax_7 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_9[0][0]'] 
+2025-01-08 22:57:40,414 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,414 - INFO -                                                                                                   
+2025-01-08 22:57:40,414 - INFO -  lambda_6 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_6[0][0]',        
+2025-01-08 22:57:40,416 - INFO -                                 )                                 'conv2d_19[0][0]']              
+2025-01-08 22:57:40,416 - INFO -                                                                                                   
+2025-01-08 22:57:40,416 - INFO -  lambda_7 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_7[0][0]',        
+2025-01-08 22:57:40,416 - INFO -                                 )                                 'conv2d_20[0][0]']              
+2025-01-08 22:57:40,416 - INFO -                                                                                                   
+2025-01-08 22:57:40,416 - INFO -  concatenate_10 (Concatenate)   (None, None, 33, 12  0           ['lambda_6[0][0]',               
+2025-01-08 22:57:40,417 - INFO -                                 8)                                'lambda_7[0][0]']               
+2025-01-08 22:57:40,417 - INFO -                                                                                                   
+2025-01-08 22:57:40,417 - INFO -  conv2d_21 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_10[0][0]']         
+2025-01-08 22:57:40,417 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,418 - INFO -                                                                                                   
+2025-01-08 22:57:40,418 - INFO -  dropout_13 (Dropout)           (None, None, 33, 16  0           ['conv2d_21[0][0]']              
+2025-01-08 22:57:40,418 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,418 - INFO -                                                                                                   
+2025-01-08 22:57:40,418 - INFO -  conv2d_22 (Conv2D)             (None, None, 33, 16  3856        ['dropout_13[0][0]']             
+2025-01-08 22:57:40,419 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,419 - INFO -                                                                                                   
+2025-01-08 22:57:40,419 - INFO -  dropout_14 (Dropout)           (None, None, 33, 16  0           ['conv2d_22[0][0]']              
+2025-01-08 22:57:40,419 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,419 - INFO -                                                                                                   
+2025-01-08 22:57:40,420 - INFO -  conv2d_23 (Conv2D)             (None, None, 33, 16  5136        ['dropout_14[0][0]']             
+2025-01-08 22:57:40,420 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,420 - INFO -                                                                                                   
+2025-01-08 22:57:40,420 - INFO -  dropout_15 (Dropout)           (None, None, 33, 16  0           ['conv2d_23[0][0]']              
+2025-01-08 22:57:40,420 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,421 - INFO -                                                                                                   
+2025-01-08 22:57:40,421 - INFO -  concatenate_11 (Concatenate)   (None, None, 33, 48  0           ['dropout_13[0][0]',             
+2025-01-08 22:57:40,421 - INFO -                                 )                                 'dropout_14[0][0]',             
+2025-01-08 22:57:40,421 - INFO -                                                                   'dropout_15[0][0]']             
+2025-01-08 22:57:40,421 - INFO -                                                                                                   
+2025-01-08 22:57:40,422 - INFO -  conv2d_24 (Conv2D)             (None, None, 33, 64  27712       ['concatenate_11[0][0]']         
+2025-01-08 22:57:40,422 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,422 - INFO -                                                                                                   
+2025-01-08 22:57:40,422 - INFO -  concatenate_12 (Concatenate)   (None, None, 33, 11  0           ['concatenate_11[0][0]',         
+2025-01-08 22:57:40,422 - INFO -                                 2)                                'conv2d_24[0][0]']              
+2025-01-08 22:57:40,422 - INFO -                                                                                                   
+2025-01-08 22:57:40,423 - INFO -  conv2d_25 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_12[0][0]']         
+2025-01-08 22:57:40,423 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,423 - INFO -                                                                                                   
+2025-01-08 22:57:40,423 - INFO -  conv2d_26 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_12[0][0]']         
+2025-01-08 22:57:40,423 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,424 - INFO -                                                                                                   
+2025-01-08 22:57:40,424 - INFO -  tf.expand_dims_8 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_25[0][0]']              
+2025-01-08 22:57:40,424 - INFO -                                  64)                                                              
+2025-01-08 22:57:40,424 - INFO -                                                                                                   
+2025-01-08 22:57:40,424 - INFO -  tf.expand_dims_9 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_26[0][0]']              
+2025-01-08 22:57:40,425 - INFO -                                  64)                                                              
+2025-01-08 22:57:40,425 - INFO -                                                                                                   
+2025-01-08 22:57:40,425 - INFO -  conv_lstm2d_8 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_8[0][0]']       
+2025-01-08 22:57:40,425 - INFO -                                  33)                                                              
+2025-01-08 22:57:40,425 - INFO -                                                                                                   
+2025-01-08 22:57:40,426 - INFO -  conv_lstm2d_9 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_9[0][0]']       
+2025-01-08 22:57:40,426 - INFO -                                  33)                                                              
+2025-01-08 22:57:40,426 - INFO -                                                                                                   
+2025-01-08 22:57:40,426 - INFO -  tf.__operators__.getitem_8 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_8[0][0]']          
+2025-01-08 22:57:40,426 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-08 22:57:40,426 - INFO -                                                                                                   
+2025-01-08 22:57:40,427 - INFO -  tf.__operators__.getitem_9 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_9[0][0]']          
+2025-01-08 22:57:40,427 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-08 22:57:40,427 - INFO -                                                                                                   
+2025-01-08 22:57:40,428 - INFO -  tf.nn.leaky_relu_8 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_8[0][0
+2025-01-08 22:57:40,428 - INFO -  )                              )                                ]']                              
+2025-01-08 22:57:40,428 - INFO -                                                                                                   
+2025-01-08 22:57:40,428 - INFO -  tf.nn.leaky_relu_9 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_9[0][0
+2025-01-08 22:57:40,428 - INFO -  )                              )                                ]']                              
+2025-01-08 22:57:40,429 - INFO -                                                                                                   
+2025-01-08 22:57:40,429 - INFO -  tf.__operators__.add_10 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_8[0][0]']     
+2025-01-08 22:57:40,429 - INFO -  ambda)                         )                                                                 
+2025-01-08 22:57:40,429 - INFO -                                                                                                   
+2025-01-08 22:57:40,430 - INFO -  tf.__operators__.add_11 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_9[0][0]']     
+2025-01-08 22:57:40,430 - INFO -  ambda)                         )                                                                 
+2025-01-08 22:57:40,430 - INFO -                                                                                                   
+2025-01-08 22:57:40,430 - INFO -  tf.nn.softmax_8 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_10[0][0]']
+2025-01-08 22:57:40,430 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,431 - INFO -                                                                                                   
+2025-01-08 22:57:40,431 - INFO -  tf.nn.softmax_9 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_11[0][0]']
+2025-01-08 22:57:40,431 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,431 - INFO -                                                                                                   
+2025-01-08 22:57:40,431 - INFO -  lambda_8 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_8[0][0]',        
+2025-01-08 22:57:40,431 - INFO -                                 )                                 'conv2d_25[0][0]']              
+2025-01-08 22:57:40,432 - INFO -                                                                                                   
+2025-01-08 22:57:40,432 - INFO -  lambda_9 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_9[0][0]',        
+2025-01-08 22:57:40,432 - INFO -                                 )                                 'conv2d_26[0][0]']              
+2025-01-08 22:57:40,432 - INFO -                                                                                                   
+2025-01-08 22:57:40,433 - INFO -  concatenate_13 (Concatenate)   (None, None, 33, 12  0           ['lambda_8[0][0]',               
+2025-01-08 22:57:40,433 - INFO -                                 8)                                'lambda_9[0][0]']               
+2025-01-08 22:57:40,433 - INFO -                                                                                                   
+2025-01-08 22:57:40,433 - INFO -  conv2d_27 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_13[0][0]']         
+2025-01-08 22:57:40,433 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,434 - INFO -                                                                                                   
+2025-01-08 22:57:40,434 - INFO -  dropout_16 (Dropout)           (None, None, 33, 16  0           ['conv2d_27[0][0]']              
+2025-01-08 22:57:40,434 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,434 - INFO -                                                                                                   
+2025-01-08 22:57:40,434 - INFO -  conv2d_28 (Conv2D)             (None, None, 33, 16  3856        ['dropout_16[0][0]']             
+2025-01-08 22:57:40,435 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,435 - INFO -                                                                                                   
+2025-01-08 22:57:40,435 - INFO -  dropout_17 (Dropout)           (None, None, 33, 16  0           ['conv2d_28[0][0]']              
+2025-01-08 22:57:40,435 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,435 - INFO -                                                                                                   
+2025-01-08 22:57:40,436 - INFO -  conv2d_29 (Conv2D)             (None, None, 33, 16  5136        ['dropout_17[0][0]']             
+2025-01-08 22:57:40,436 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,436 - INFO -                                                                                                   
+2025-01-08 22:57:40,436 - INFO -  dropout_18 (Dropout)           (None, None, 33, 16  0           ['conv2d_29[0][0]']              
+2025-01-08 22:57:40,436 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,437 - INFO -                                                                                                   
+2025-01-08 22:57:40,437 - INFO -  concatenate_14 (Concatenate)   (None, None, 33, 48  0           ['dropout_16[0][0]',             
+2025-01-08 22:57:40,437 - INFO -                                 )                                 'dropout_17[0][0]',             
+2025-01-08 22:57:40,437 - INFO -                                                                   'dropout_18[0][0]']             
+2025-01-08 22:57:40,437 - INFO -                                                                                                   
+2025-01-08 22:57:40,438 - INFO -  tf.__operators__.add_12 (TFOpL  (None, None, 33, 48  0          ['concatenate_11[0][0]',         
+2025-01-08 22:57:40,438 - INFO -  ambda)                         )                                 'concatenate_14[0][0]']         
+2025-01-08 22:57:40,438 - INFO -                                                                                                   
+2025-01-08 22:57:40,438 - INFO -  conv2d_30 (Conv2D)             (None, None, 33, 64  27712       ['tf.__operators__.add_12[0][0]']
+2025-01-08 22:57:40,438 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,438 - INFO -                                                                                                   
+2025-01-08 22:57:40,439 - INFO -  concatenate_15 (Concatenate)   (None, None, 33, 11  0           ['tf.__operators__.add_12[0][0]',
+2025-01-08 22:57:40,439 - INFO -                                 2)                                'conv2d_30[0][0]']              
+2025-01-08 22:57:40,439 - INFO -                                                                                                   
+2025-01-08 22:57:40,439 - INFO -  conv2d_31 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_15[0][0]']         
+2025-01-08 22:57:40,440 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,440 - INFO -                                                                                                   
+2025-01-08 22:57:40,440 - INFO -  conv2d_32 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_15[0][0]']         
+2025-01-08 22:57:40,440 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,440 - INFO -                                                                                                   
+2025-01-08 22:57:40,441 - INFO -  tf.expand_dims_10 (TFOpLambda)  (None, None, 33, 1,  0          ['conv2d_31[0][0]']              
+2025-01-08 22:57:40,441 - INFO -                                  64)                                                              
+2025-01-08 22:57:40,441 - INFO -                                                                                                   
+2025-01-08 22:57:40,441 - INFO -  tf.expand_dims_11 (TFOpLambda)  (None, None, 33, 1,  0          ['conv2d_32[0][0]']              
+2025-01-08 22:57:40,441 - INFO -                                  64)                                                              
+2025-01-08 22:57:40,441 - INFO -                                                                                                   
+2025-01-08 22:57:40,442 - INFO -  conv_lstm2d_10 (ConvLSTM2D)    (None, None, 33, 1,  12936       ['tf.expand_dims_10[0][0]']      
+2025-01-08 22:57:40,442 - INFO -                                  33)                                                              
+2025-01-08 22:57:40,442 - INFO -                                                                                                   
+2025-01-08 22:57:40,443 - INFO -  conv_lstm2d_11 (ConvLSTM2D)    (None, None, 33, 1,  12936       ['tf.expand_dims_11[0][0]']      
+2025-01-08 22:57:40,443 - INFO -                                  33)                                                              
+2025-01-08 22:57:40,443 - INFO -                                                                                                   
+2025-01-08 22:57:40,443 - INFO -  tf.__operators__.getitem_10 (S  (None, None, 33, 33  0          ['conv_lstm2d_10[0][0]']         
+2025-01-08 22:57:40,443 - INFO -  licingOpLambda)                )                                                                 
+2025-01-08 22:57:40,444 - INFO -                                                                                                   
+2025-01-08 22:57:40,444 - INFO -  tf.__operators__.getitem_11 (S  (None, None, 33, 33  0          ['conv_lstm2d_11[0][0]']         
+2025-01-08 22:57:40,444 - INFO -  licingOpLambda)                )                                                                 
+2025-01-08 22:57:40,444 - INFO -                                                                                                   
+2025-01-08 22:57:40,445 - INFO -  tf.nn.leaky_relu_10 (TFOpLambd  (None, None, 33, 33  0          ['tf.__operators__.getitem_10[0][
+2025-01-08 22:57:40,445 - INFO -  a)                             )                                0]']                             
+2025-01-08 22:57:40,445 - INFO -                                                                                                   
+2025-01-08 22:57:40,445 - INFO -  tf.nn.leaky_relu_11 (TFOpLambd  (None, None, 33, 33  0          ['tf.__operators__.getitem_11[0][
+2025-01-08 22:57:40,446 - INFO -  a)                             )                                0]']                             
+2025-01-08 22:57:40,446 - INFO -                                                                                                   
+2025-01-08 22:57:40,446 - INFO -  tf.__operators__.add_13 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_10[0][0]']    
+2025-01-08 22:57:40,446 - INFO -  ambda)                         )                                                                 
+2025-01-08 22:57:40,446 - INFO -                                                                                                   
+2025-01-08 22:57:40,446 - INFO -  tf.__operators__.add_14 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_11[0][0]']    
+2025-01-08 22:57:40,447 - INFO -  ambda)                         )                                                                 
+2025-01-08 22:57:40,447 - INFO -                                                                                                   
+2025-01-08 22:57:40,447 - INFO -  tf.nn.softmax_10 (TFOpLambda)  (None, None, 33, 33  0           ['tf.__operators__.add_13[0][0]']
+2025-01-08 22:57:40,447 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,447 - INFO -                                                                                                   
+2025-01-08 22:57:40,448 - INFO -  tf.nn.softmax_11 (TFOpLambda)  (None, None, 33, 33  0           ['tf.__operators__.add_14[0][0]']
+2025-01-08 22:57:40,448 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,448 - INFO -                                                                                                   
+2025-01-08 22:57:40,448 - INFO -  lambda_10 (Lambda)             (None, None, 33, 64  0           ['tf.nn.softmax_10[0][0]',       
+2025-01-08 22:57:40,448 - INFO -                                 )                                 'conv2d_31[0][0]']              
+2025-01-08 22:57:40,448 - INFO -                                                                                                   
+2025-01-08 22:57:40,449 - INFO -  lambda_11 (Lambda)             (None, None, 33, 64  0           ['tf.nn.softmax_11[0][0]',       
+2025-01-08 22:57:40,449 - INFO -                                 )                                 'conv2d_32[0][0]']              
+2025-01-08 22:57:40,449 - INFO -                                                                                                   
+2025-01-08 22:57:40,449 - INFO -  concatenate_16 (Concatenate)   (None, None, 33, 12  0           ['lambda_10[0][0]',              
+2025-01-08 22:57:40,450 - INFO -                                 8)                                'lambda_11[0][0]']              
+2025-01-08 22:57:40,450 - INFO -                                                                                                   
+2025-01-08 22:57:40,450 - INFO -  conv2d_33 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_16[0][0]']         
+2025-01-08 22:57:40,450 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,450 - INFO -                                                                                                   
+2025-01-08 22:57:40,451 - INFO -  dropout_19 (Dropout)           (None, None, 33, 16  0           ['conv2d_33[0][0]']              
+2025-01-08 22:57:40,451 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,451 - INFO -                                                                                                   
+2025-01-08 22:57:40,451 - INFO -  conv2d_34 (Conv2D)             (None, None, 33, 16  3856        ['dropout_19[0][0]']             
+2025-01-08 22:57:40,451 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,451 - INFO -                                                                                                   
+2025-01-08 22:57:40,452 - INFO -  dropout_20 (Dropout)           (None, None, 33, 16  0           ['conv2d_34[0][0]']              
+2025-01-08 22:57:40,452 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,452 - INFO -                                                                                                   
+2025-01-08 22:57:40,452 - INFO -  conv2d_35 (Conv2D)             (None, None, 33, 16  5136        ['dropout_20[0][0]']             
+2025-01-08 22:57:40,452 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,452 - INFO -                                                                                                   
+2025-01-08 22:57:40,453 - INFO -  dropout_21 (Dropout)           (None, None, 33, 16  0           ['conv2d_35[0][0]']              
+2025-01-08 22:57:40,453 - INFO -                                 )                                                                 
+2025-01-08 22:57:40,453 - INFO -                                                                                                   
+2025-01-08 22:57:40,453 - INFO -  concatenate_17 (Concatenate)   (None, None, 33, 48  0           ['dropout_19[0][0]',             
+2025-01-08 22:57:40,453 - INFO -                                 )                                 'dropout_20[0][0]',             
+2025-01-08 22:57:40,454 - INFO -                                                                   'dropout_21[0][0]']             
+2025-01-08 22:57:40,454 - INFO -                                                                                                   
+2025-01-08 22:57:40,454 - INFO -  tf.__operators__.add_15 (TFOpL  (None, None, 33, 48  0          ['tf.__operators__.add_12[0][0]',
+2025-01-08 22:57:40,454 - INFO -  ambda)                         )                                 'concatenate_17[0][0]']         
+2025-01-08 22:57:40,454 - INFO -                                                                                                   
+2025-01-08 22:57:40,454 - INFO -  reshape_1 (Reshape)            (None, None, 1584)   0           ['tf.__operators__.add_15[0][0]']
+2025-01-08 22:57:40,455 - INFO -                                                                                                   
+2025-01-08 22:57:40,455 - INFO -  bidirectional_2 (Bidirectional  (None, None, 160)   1065600     ['reshape_1[0][0]']              
+2025-01-08 22:57:40,455 - INFO -  )                                                                                                
+2025-01-08 22:57:40,455 - INFO -                                                                                                   
+2025-01-08 22:57:40,455 - INFO -  dropout_22 (Dropout)           (None, None, 160)    0           ['bidirectional_2[0][0]']        
+2025-01-08 22:57:40,456 - INFO -                                                                                                   
+2025-01-08 22:57:40,456 - INFO -  gru_2 (GRU)                    (None, None, 40)     24240       ['dropout_22[0][0]']             
+2025-01-08 22:57:40,456 - INFO -                                                                                                   
+2025-01-08 22:57:40,456 - INFO -  dropout_23 (Dropout)           (None, None, 40)     0           ['gru_2[0][0]']                  
+2025-01-08 22:57:40,457 - INFO -                                                                                                   
+2025-01-08 22:57:40,457 - INFO -  bidirectional_3 (Bidirectional  (None, None, 80)    25920       ['dropout_23[0][0]']             
+2025-01-08 22:57:40,458 - INFO -  )                                                                                                
+2025-01-08 22:57:40,458 - INFO -                                                                                                   
+2025-01-08 22:57:40,458 - INFO -  dropout_24 (Dropout)           (None, None, 80)     0           ['bidirectional_3[0][0]']        
+2025-01-08 22:57:40,459 - INFO -                                                                                                   
+2025-01-08 22:57:40,459 - INFO -  gru_3 (GRU)                    (None, 80)           38880       ['dropout_24[0][0]']             
+2025-01-08 22:57:40,459 - INFO -                                                                                                   
+2025-01-08 22:57:40,460 - INFO -  dropout_25 (Dropout)           (None, 80)           0           ['gru_3[0][0]']                  
+2025-01-08 22:57:40,460 - INFO -                                                                                                   
+2025-01-08 22:57:40,460 - INFO -  dense_1 (Dense)                (None, 100)          8100        ['dropout_25[0][0]']             
+2025-01-08 22:57:40,461 - INFO -                                                                                                   
+2025-01-08 22:57:40,461 - INFO - ==================================================================================================
+2025-01-08 22:57:40,462 - INFO - Total params: 1,417,524
+2025-01-08 22:57:40,463 - INFO - Trainable params: 1,417,524
+2025-01-08 22:57:40,463 - INFO - Non-trainable params: 0
+2025-01-08 22:57:40,463 - INFO - __________________________________________________________________________________________________
+2025-01-08 22:57:40,465 - INFO - 
+Parameter Summary:
+2025-01-08 22:57:40,465 - INFO - --------------------------------------------------
+2025-01-08 22:57:40,466 - INFO - Total Parameters: 1,417,524.0
+2025-01-08 22:57:40,466 - INFO - Trainable Parameters: 1,417,524
+2025-01-08 22:57:40,466 - INFO - Non-trainable Parameters: 0.0
+2025-01-08 22:57:40,466 - INFO - --------------------------------------------------
+2025-01-08 22:57:40,466 - INFO - 
+Parameters by Layer:
+2025-01-08 22:57:40,467 - INFO - --------------------------------------------------
+2025-01-08 22:57:40,467 - INFO - Layer Name                     Output Shape         Param #      Trainable
+2025-01-08 22:57:40,467 - INFO - --------------------------------------------------
+2025-01-08 22:57:40,468 - INFO - input_2                        [(None, None, 33, 3)] 0            Yes
+2025-01-08 22:57:40,468 - INFO - conv2d_18                      (None, None, 33, 64) 1,792        Yes
+2025-01-08 22:57:40,468 - INFO - concatenate_9                  (None, None, 33, 67) 0            Yes
+2025-01-08 22:57:40,469 - INFO - conv2d_19                      (None, None, 33, 64) 4,352        Yes
+2025-01-08 22:57:40,469 - INFO - conv2d_20                      (None, None, 33, 64) 4,352        Yes
+2025-01-08 22:57:40,469 - INFO - tf.expand_dims_6               (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:57:40,470 - INFO - tf.expand_dims_7               (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:57:40,470 - INFO - conv_lstm2d_6                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:57:40,471 - INFO - conv_lstm2d_7                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:57:40,471 - INFO - tf.__operators__.getitem_6     (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,471 - INFO - tf.__operators__.getitem_7     (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,472 - INFO - tf.nn.leaky_relu_6             (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,472 - INFO - tf.nn.leaky_relu_7             (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,472 - INFO - tf.__operators__.add_8         (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,473 - INFO - tf.__operators__.add_9         (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,473 - INFO - tf.nn.softmax_6                (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,473 - INFO - tf.nn.softmax_7                (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,474 - INFO - lambda_6                       (None, None, 33, 64) 0            Yes
+2025-01-08 22:57:40,474 - INFO - lambda_7                       (None, None, 33, 64) 0            Yes
+2025-01-08 22:57:40,474 - INFO - concatenate_10                 (None, None, 33, 128) 0            Yes
+2025-01-08 22:57:40,475 - INFO - conv2d_21                      (None, None, 33, 16) 18,448       Yes
+2025-01-08 22:57:40,475 - INFO - dropout_13                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,475 - INFO - conv2d_22                      (None, None, 33, 16) 3,856        Yes
+2025-01-08 22:57:40,476 - INFO - dropout_14                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,476 - INFO - conv2d_23                      (None, None, 33, 16) 5,136        Yes
+2025-01-08 22:57:40,476 - INFO - dropout_15                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,477 - INFO - concatenate_11                 (None, None, 33, 48) 0            Yes
+2025-01-08 22:57:40,477 - INFO - conv2d_24                      (None, None, 33, 64) 27,712       Yes
+2025-01-08 22:57:40,478 - INFO - concatenate_12                 (None, None, 33, 112) 0            Yes
+2025-01-08 22:57:40,478 - INFO - conv2d_25                      (None, None, 33, 64) 7,232        Yes
+2025-01-08 22:57:40,478 - INFO - conv2d_26                      (None, None, 33, 64) 7,232        Yes
+2025-01-08 22:57:40,479 - INFO - tf.expand_dims_8               (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:57:40,479 - INFO - tf.expand_dims_9               (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:57:40,479 - INFO - conv_lstm2d_8                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:57:40,480 - INFO - conv_lstm2d_9                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:57:40,480 - INFO - tf.__operators__.getitem_8     (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,480 - INFO - tf.__operators__.getitem_9     (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,480 - INFO - tf.nn.leaky_relu_8             (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,480 - INFO - tf.nn.leaky_relu_9             (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,481 - INFO - tf.__operators__.add_10        (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,481 - INFO - tf.__operators__.add_11        (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,481 - INFO - tf.nn.softmax_8                (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,481 - INFO - tf.nn.softmax_9                (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,481 - INFO - lambda_8                       (None, None, 33, 64) 0            Yes
+2025-01-08 22:57:40,482 - INFO - lambda_9                       (None, None, 33, 64) 0            Yes
+2025-01-08 22:57:40,482 - INFO - concatenate_13                 (None, None, 33, 128) 0            Yes
+2025-01-08 22:57:40,482 - INFO - conv2d_27                      (None, None, 33, 16) 18,448       Yes
+2025-01-08 22:57:40,482 - INFO - dropout_16                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,482 - INFO - conv2d_28                      (None, None, 33, 16) 3,856        Yes
+2025-01-08 22:57:40,483 - INFO - dropout_17                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,483 - INFO - conv2d_29                      (None, None, 33, 16) 5,136        Yes
+2025-01-08 22:57:40,483 - INFO - dropout_18                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,483 - INFO - concatenate_14                 (None, None, 33, 48) 0            Yes
+2025-01-08 22:57:40,483 - INFO - tf.__operators__.add_12        (None, None, 33, 48) 0            Yes
+2025-01-08 22:57:40,484 - INFO - conv2d_30                      (None, None, 33, 64) 27,712       Yes
+2025-01-08 22:57:40,484 - INFO - concatenate_15                 (None, None, 33, 112) 0            Yes
+2025-01-08 22:57:40,484 - INFO - conv2d_31                      (None, None, 33, 64) 7,232        Yes
+2025-01-08 22:57:40,485 - INFO - conv2d_32                      (None, None, 33, 64) 7,232        Yes
+2025-01-08 22:57:40,485 - INFO - tf.expand_dims_10              (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:57:40,485 - INFO - tf.expand_dims_11              (None, None, 33, 1, 64) 0            Yes
+2025-01-08 22:57:40,486 - INFO - conv_lstm2d_10                 (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:57:40,486 - INFO - conv_lstm2d_11                 (None, None, 33, 1, 33) 12,936       Yes
+2025-01-08 22:57:40,487 - INFO - tf.__operators__.getitem_10    (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,487 - INFO - tf.__operators__.getitem_11    (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,487 - INFO - tf.nn.leaky_relu_10            (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,487 - INFO - tf.nn.leaky_relu_11            (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,488 - INFO - tf.__operators__.add_13        (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,488 - INFO - tf.__operators__.add_14        (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,488 - INFO - tf.nn.softmax_10               (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,488 - INFO - tf.nn.softmax_11               (None, None, 33, 33) 0            Yes
+2025-01-08 22:57:40,489 - INFO - lambda_10                      (None, None, 33, 64) 0            Yes
+2025-01-08 22:57:40,489 - INFO - lambda_11                      (None, None, 33, 64) 0            Yes
+2025-01-08 22:57:40,489 - INFO - concatenate_16                 (None, None, 33, 128) 0            Yes
+2025-01-08 22:57:40,490 - INFO - conv2d_33                      (None, None, 33, 16) 18,448       Yes
+2025-01-08 22:57:40,490 - INFO - dropout_19                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,490 - INFO - conv2d_34                      (None, None, 33, 16) 3,856        Yes
+2025-01-08 22:57:40,490 - INFO - dropout_20                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,491 - INFO - conv2d_35                      (None, None, 33, 16) 5,136        Yes
+2025-01-08 22:57:40,491 - INFO - dropout_21                     (None, None, 33, 16) 0            Yes
+2025-01-08 22:57:40,491 - INFO - concatenate_17                 (None, None, 33, 48) 0            Yes
+2025-01-08 22:57:40,492 - INFO - tf.__operators__.add_15        (None, None, 33, 48) 0            Yes
+2025-01-08 22:57:40,492 - INFO - reshape_1                      (None, None, 1584)   0            Yes
+2025-01-08 22:57:40,492 - INFO - bidirectional_2                (None, None, 160)    1,065,600    Yes
+2025-01-08 22:57:40,493 - INFO - dropout_22                     (None, None, 160)    0            Yes
+2025-01-08 22:57:40,493 - INFO - gru_2                          (None, None, 40)     24,240       Yes
+2025-01-08 22:57:40,493 - INFO - dropout_23                     (None, None, 40)     0            Yes
+2025-01-08 22:57:40,494 - INFO - bidirectional_3                (None, None, 80)     25,920       Yes
+2025-01-08 22:57:40,494 - INFO - dropout_24                     (None, None, 80)     0            Yes
+2025-01-08 22:57:40,495 - INFO - gru_3                          (None, 80)           38,880       Yes
+2025-01-08 22:57:40,495 - INFO - dropout_25                     (None, 80)           0            Yes
+2025-01-08 22:57:40,495 - INFO - dense_1                        (None, 100)          8,100        Yes
+2025-01-08 22:57:40,495 - INFO - --------------------------------------------------
+2025-01-08 22:57:40,496 - INFO - 
+Starting Training...
+2025-01-09 00:43:16,370 - INFO - 
+Training Results:
+2025-01-09 00:43:16,370 - INFO - --------------------------------------------------
+2025-01-09 00:43:16,371 - INFO - Final Validation Accuracy: 0.4620
+2025-01-09 00:43:16,665 - INFO - 
+Training completed. Results saved.
+2025-01-09 09:27:27,590 - INFO - 
+Training Parameters:
+2025-01-09 09:27:27,591 - INFO - --------------------------------------------------
+2025-01-09 09:27:27,591 - INFO - ex: Data/FALL/Kimore_ex5/SMV
+2025-01-09 09:27:27,591 - INFO - lr: 0.0001
+2025-01-09 09:27:27,592 - INFO - epochs: 300
+2025-01-09 09:27:27,592 - INFO - batch_size: 1
+2025-01-09 09:27:27,592 - INFO - --------------------------------------------------
+2025-01-09 09:27:28,125 - INFO - 
+Data Shapes:
+2025-01-09 09:27:28,125 - INFO - --------------------------------------------------
+2025-01-09 09:27:28,126 - INFO - Training data (X): (57, 100, 33, 3)
+2025-01-09 09:27:28,126 - INFO - Training labels (Y): (57, 100)
+2025-01-09 09:27:28,126 - INFO - Validation data (X): (15, 100, 33, 3)
+2025-01-09 09:27:28,127 - INFO - Validation labels (Y): (15, 100)
+2025-01-09 09:27:28,127 - INFO - --------------------------------------------------
+2025-01-09 09:27:29,214 - INFO - 
+Model Architecture:
+2025-01-09 09:27:29,215 - INFO - --------------------------------------------------
+2025-01-09 09:27:29,215 - INFO - Model: "model_1"
+2025-01-09 09:27:29,215 - INFO - __________________________________________________________________________________________________
+2025-01-09 09:27:29,216 - INFO -  Layer (type)                   Output Shape         Param #     Connected to                     
+2025-01-09 09:27:29,216 - INFO - ==================================================================================================
+2025-01-09 09:27:29,216 - INFO -  input_2 (InputLayer)           [(None, None, 33, 3  0           []                               
+2025-01-09 09:27:29,216 - INFO -                                 )]                                                                
+2025-01-09 09:27:29,217 - INFO -                                                                                                   
+2025-01-09 09:27:29,217 - INFO -  conv2d_18 (Conv2D)             (None, None, 33, 64  1792        ['input_2[0][0]']                
+2025-01-09 09:27:29,217 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,217 - INFO -                                                                                                   
+2025-01-09 09:27:29,218 - INFO -  concatenate_9 (Concatenate)    (None, None, 33, 67  0           ['input_2[0][0]',                
+2025-01-09 09:27:29,218 - INFO -                                 )                                 'conv2d_18[0][0]']              
+2025-01-09 09:27:29,218 - INFO -                                                                                                   
+2025-01-09 09:27:29,218 - INFO -  conv2d_19 (Conv2D)             (None, None, 33, 64  4352        ['concatenate_9[0][0]']          
+2025-01-09 09:27:29,219 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,219 - INFO -                                                                                                   
+2025-01-09 09:27:29,219 - INFO -  conv2d_20 (Conv2D)             (None, None, 33, 64  4352        ['concatenate_9[0][0]']          
+2025-01-09 09:27:29,219 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,219 - INFO -                                                                                                   
+2025-01-09 09:27:29,220 - INFO -  tf.expand_dims_6 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_19[0][0]']              
+2025-01-09 09:27:29,220 - INFO -                                  64)                                                              
+2025-01-09 09:27:29,220 - INFO -                                                                                                   
+2025-01-09 09:27:29,220 - INFO -  tf.expand_dims_7 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_20[0][0]']              
+2025-01-09 09:27:29,220 - INFO -                                  64)                                                              
+2025-01-09 09:27:29,221 - INFO -                                                                                                   
+2025-01-09 09:27:29,221 - INFO -  conv_lstm2d_6 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_6[0][0]']       
+2025-01-09 09:27:29,221 - INFO -                                  33)                                                              
+2025-01-09 09:27:29,221 - INFO -                                                                                                   
+2025-01-09 09:27:29,222 - INFO -  conv_lstm2d_7 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_7[0][0]']       
+2025-01-09 09:27:29,222 - INFO -                                  33)                                                              
+2025-01-09 09:27:29,222 - INFO -                                                                                                   
+2025-01-09 09:27:29,222 - INFO -  tf.__operators__.getitem_6 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_6[0][0]']          
+2025-01-09 09:27:29,222 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-09 09:27:29,222 - INFO -                                                                                                   
+2025-01-09 09:27:29,223 - INFO -  tf.__operators__.getitem_7 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_7[0][0]']          
+2025-01-09 09:27:29,223 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-09 09:27:29,223 - INFO -                                                                                                   
+2025-01-09 09:27:29,223 - INFO -  tf.nn.leaky_relu_6 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_6[0][0
+2025-01-09 09:27:29,223 - INFO -  )                              )                                ]']                              
+2025-01-09 09:27:29,223 - INFO -                                                                                                   
+2025-01-09 09:27:29,224 - INFO -  tf.nn.leaky_relu_7 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_7[0][0
+2025-01-09 09:27:29,224 - INFO -  )                              )                                ]']                              
+2025-01-09 09:27:29,224 - INFO -                                                                                                   
+2025-01-09 09:27:29,224 - INFO -  tf.__operators__.add_8 (TFOpLa  (None, None, 33, 33  0          ['tf.nn.leaky_relu_6[0][0]']     
+2025-01-09 09:27:29,224 - INFO -  mbda)                          )                                                                 
+2025-01-09 09:27:29,224 - INFO -                                                                                                   
+2025-01-09 09:27:29,225 - INFO -  tf.__operators__.add_9 (TFOpLa  (None, None, 33, 33  0          ['tf.nn.leaky_relu_7[0][0]']     
+2025-01-09 09:27:29,225 - INFO -  mbda)                          )                                                                 
+2025-01-09 09:27:29,225 - INFO -                                                                                                   
+2025-01-09 09:27:29,225 - INFO -  tf.nn.softmax_6 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_8[0][0]'] 
+2025-01-09 09:27:29,225 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,226 - INFO -                                                                                                   
+2025-01-09 09:27:29,226 - INFO -  tf.nn.softmax_7 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_9[0][0]'] 
+2025-01-09 09:27:29,226 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,226 - INFO -                                                                                                   
+2025-01-09 09:27:29,226 - INFO -  lambda_6 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_6[0][0]',        
+2025-01-09 09:27:29,226 - INFO -                                 )                                 'conv2d_19[0][0]']              
+2025-01-09 09:27:29,227 - INFO -                                                                                                   
+2025-01-09 09:27:29,227 - INFO -  lambda_7 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_7[0][0]',        
+2025-01-09 09:27:29,227 - INFO -                                 )                                 'conv2d_20[0][0]']              
+2025-01-09 09:27:29,227 - INFO -                                                                                                   
+2025-01-09 09:27:29,228 - INFO -  concatenate_10 (Concatenate)   (None, None, 33, 12  0           ['lambda_6[0][0]',               
+2025-01-09 09:27:29,228 - INFO -                                 8)                                'lambda_7[0][0]']               
+2025-01-09 09:27:29,228 - INFO -                                                                                                   
+2025-01-09 09:27:29,228 - INFO -  conv2d_21 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_10[0][0]']         
+2025-01-09 09:27:29,228 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,228 - INFO -                                                                                                   
+2025-01-09 09:27:29,229 - INFO -  dropout_13 (Dropout)           (None, None, 33, 16  0           ['conv2d_21[0][0]']              
+2025-01-09 09:27:29,229 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,229 - INFO -                                                                                                   
+2025-01-09 09:27:29,229 - INFO -  conv2d_22 (Conv2D)             (None, None, 33, 16  3856        ['dropout_13[0][0]']             
+2025-01-09 09:27:29,229 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,229 - INFO -                                                                                                   
+2025-01-09 09:27:29,230 - INFO -  dropout_14 (Dropout)           (None, None, 33, 16  0           ['conv2d_22[0][0]']              
+2025-01-09 09:27:29,230 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,230 - INFO -                                                                                                   
+2025-01-09 09:27:29,230 - INFO -  conv2d_23 (Conv2D)             (None, None, 33, 16  5136        ['dropout_14[0][0]']             
+2025-01-09 09:27:29,230 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,231 - INFO -                                                                                                   
+2025-01-09 09:27:29,231 - INFO -  dropout_15 (Dropout)           (None, None, 33, 16  0           ['conv2d_23[0][0]']              
+2025-01-09 09:27:29,231 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,231 - INFO -                                                                                                   
+2025-01-09 09:27:29,231 - INFO -  concatenate_11 (Concatenate)   (None, None, 33, 48  0           ['dropout_13[0][0]',             
+2025-01-09 09:27:29,232 - INFO -                                 )                                 'dropout_14[0][0]',             
+2025-01-09 09:27:29,232 - INFO -                                                                   'dropout_15[0][0]']             
+2025-01-09 09:27:29,232 - INFO -                                                                                                   
+2025-01-09 09:27:29,232 - INFO -  conv2d_24 (Conv2D)             (None, None, 33, 64  27712       ['concatenate_11[0][0]']         
+2025-01-09 09:27:29,232 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,232 - INFO -                                                                                                   
+2025-01-09 09:27:29,233 - INFO -  concatenate_12 (Concatenate)   (None, None, 33, 11  0           ['concatenate_11[0][0]',         
+2025-01-09 09:27:29,233 - INFO -                                 2)                                'conv2d_24[0][0]']              
+2025-01-09 09:27:29,233 - INFO -                                                                                                   
+2025-01-09 09:27:29,233 - INFO -  conv2d_25 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_12[0][0]']         
+2025-01-09 09:27:29,233 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,233 - INFO -                                                                                                   
+2025-01-09 09:27:29,234 - INFO -  conv2d_26 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_12[0][0]']         
+2025-01-09 09:27:29,234 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,234 - INFO -                                                                                                   
+2025-01-09 09:27:29,234 - INFO -  tf.expand_dims_8 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_25[0][0]']              
+2025-01-09 09:27:29,235 - INFO -                                  64)                                                              
+2025-01-09 09:27:29,235 - INFO -                                                                                                   
+2025-01-09 09:27:29,235 - INFO -  tf.expand_dims_9 (TFOpLambda)  (None, None, 33, 1,  0           ['conv2d_26[0][0]']              
+2025-01-09 09:27:29,235 - INFO -                                  64)                                                              
+2025-01-09 09:27:29,235 - INFO -                                                                                                   
+2025-01-09 09:27:29,236 - INFO -  conv_lstm2d_8 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_8[0][0]']       
+2025-01-09 09:27:29,236 - INFO -                                  33)                                                              
+2025-01-09 09:27:29,236 - INFO -                                                                                                   
+2025-01-09 09:27:29,236 - INFO -  conv_lstm2d_9 (ConvLSTM2D)     (None, None, 33, 1,  12936       ['tf.expand_dims_9[0][0]']       
+2025-01-09 09:27:29,236 - INFO -                                  33)                                                              
+2025-01-09 09:27:29,237 - INFO -                                                                                                   
+2025-01-09 09:27:29,237 - INFO -  tf.__operators__.getitem_8 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_8[0][0]']          
+2025-01-09 09:27:29,237 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-09 09:27:29,237 - INFO -                                                                                                   
+2025-01-09 09:27:29,237 - INFO -  tf.__operators__.getitem_9 (Sl  (None, None, 33, 33  0          ['conv_lstm2d_9[0][0]']          
+2025-01-09 09:27:29,238 - INFO -  icingOpLambda)                 )                                                                 
+2025-01-09 09:27:29,238 - INFO -                                                                                                   
+2025-01-09 09:27:29,238 - INFO -  tf.nn.leaky_relu_8 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_8[0][0
+2025-01-09 09:27:29,238 - INFO -  )                              )                                ]']                              
+2025-01-09 09:27:29,238 - INFO -                                                                                                   
+2025-01-09 09:27:29,238 - INFO -  tf.nn.leaky_relu_9 (TFOpLambda  (None, None, 33, 33  0          ['tf.__operators__.getitem_9[0][0
+2025-01-09 09:27:29,238 - INFO -  )                              )                                ]']                              
+2025-01-09 09:27:29,238 - INFO -                                                                                                   
+2025-01-09 09:27:29,239 - INFO -  tf.__operators__.add_10 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_8[0][0]']     
+2025-01-09 09:27:29,239 - INFO -  ambda)                         )                                                                 
+2025-01-09 09:27:29,239 - INFO -                                                                                                   
+2025-01-09 09:27:29,239 - INFO -  tf.__operators__.add_11 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_9[0][0]']     
+2025-01-09 09:27:29,239 - INFO -  ambda)                         )                                                                 
+2025-01-09 09:27:29,239 - INFO -                                                                                                   
+2025-01-09 09:27:29,240 - INFO -  tf.nn.softmax_8 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_10[0][0]']
+2025-01-09 09:27:29,240 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,240 - INFO -                                                                                                   
+2025-01-09 09:27:29,240 - INFO -  tf.nn.softmax_9 (TFOpLambda)   (None, None, 33, 33  0           ['tf.__operators__.add_11[0][0]']
+2025-01-09 09:27:29,240 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,241 - INFO -                                                                                                   
+2025-01-09 09:27:29,241 - INFO -  lambda_8 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_8[0][0]',        
+2025-01-09 09:27:29,241 - INFO -                                 )                                 'conv2d_25[0][0]']              
+2025-01-09 09:27:29,241 - INFO -                                                                                                   
+2025-01-09 09:27:29,241 - INFO -  lambda_9 (Lambda)              (None, None, 33, 64  0           ['tf.nn.softmax_9[0][0]',        
+2025-01-09 09:27:29,241 - INFO -                                 )                                 'conv2d_26[0][0]']              
+2025-01-09 09:27:29,241 - INFO -                                                                                                   
+2025-01-09 09:27:29,241 - INFO -  concatenate_13 (Concatenate)   (None, None, 33, 12  0           ['lambda_8[0][0]',               
+2025-01-09 09:27:29,242 - INFO -                                 8)                                'lambda_9[0][0]']               
+2025-01-09 09:27:29,242 - INFO -                                                                                                   
+2025-01-09 09:27:29,242 - INFO -  conv2d_27 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_13[0][0]']         
+2025-01-09 09:27:29,242 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,242 - INFO -                                                                                                   
+2025-01-09 09:27:29,243 - INFO -  dropout_16 (Dropout)           (None, None, 33, 16  0           ['conv2d_27[0][0]']              
+2025-01-09 09:27:29,243 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,243 - INFO -                                                                                                   
+2025-01-09 09:27:29,243 - INFO -  conv2d_28 (Conv2D)             (None, None, 33, 16  3856        ['dropout_16[0][0]']             
+2025-01-09 09:27:29,244 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,244 - INFO -                                                                                                   
+2025-01-09 09:27:29,244 - INFO -  dropout_17 (Dropout)           (None, None, 33, 16  0           ['conv2d_28[0][0]']              
+2025-01-09 09:27:29,244 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,244 - INFO -                                                                                                   
+2025-01-09 09:27:29,245 - INFO -  conv2d_29 (Conv2D)             (None, None, 33, 16  5136        ['dropout_17[0][0]']             
+2025-01-09 09:27:29,245 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,245 - INFO -                                                                                                   
+2025-01-09 09:27:29,245 - INFO -  dropout_18 (Dropout)           (None, None, 33, 16  0           ['conv2d_29[0][0]']              
+2025-01-09 09:27:29,245 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,245 - INFO -                                                                                                   
+2025-01-09 09:27:29,246 - INFO -  concatenate_14 (Concatenate)   (None, None, 33, 48  0           ['dropout_16[0][0]',             
+2025-01-09 09:27:29,246 - INFO -                                 )                                 'dropout_17[0][0]',             
+2025-01-09 09:27:29,246 - INFO -                                                                   'dropout_18[0][0]']             
+2025-01-09 09:27:29,246 - INFO -                                                                                                   
+2025-01-09 09:27:29,246 - INFO -  tf.__operators__.add_12 (TFOpL  (None, None, 33, 48  0          ['concatenate_11[0][0]',         
+2025-01-09 09:27:29,247 - INFO -  ambda)                         )                                 'concatenate_14[0][0]']         
+2025-01-09 09:27:29,247 - INFO -                                                                                                   
+2025-01-09 09:27:29,247 - INFO -  conv2d_30 (Conv2D)             (None, None, 33, 64  27712       ['tf.__operators__.add_12[0][0]']
+2025-01-09 09:27:29,247 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,247 - INFO -                                                                                                   
+2025-01-09 09:27:29,248 - INFO -  concatenate_15 (Concatenate)   (None, None, 33, 11  0           ['tf.__operators__.add_12[0][0]',
+2025-01-09 09:27:29,248 - INFO -                                 2)                                'conv2d_30[0][0]']              
+2025-01-09 09:27:29,248 - INFO -                                                                                                   
+2025-01-09 09:27:29,248 - INFO -  conv2d_31 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_15[0][0]']         
+2025-01-09 09:27:29,249 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,249 - INFO -                                                                                                   
+2025-01-09 09:27:29,249 - INFO -  conv2d_32 (Conv2D)             (None, None, 33, 64  7232        ['concatenate_15[0][0]']         
+2025-01-09 09:27:29,249 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,249 - INFO -                                                                                                   
+2025-01-09 09:27:29,250 - INFO -  tf.expand_dims_10 (TFOpLambda)  (None, None, 33, 1,  0          ['conv2d_31[0][0]']              
+2025-01-09 09:27:29,250 - INFO -                                  64)                                                              
+2025-01-09 09:27:29,250 - INFO -                                                                                                   
+2025-01-09 09:27:29,250 - INFO -  tf.expand_dims_11 (TFOpLambda)  (None, None, 33, 1,  0          ['conv2d_32[0][0]']              
+2025-01-09 09:27:29,250 - INFO -                                  64)                                                              
+2025-01-09 09:27:29,250 - INFO -                                                                                                   
+2025-01-09 09:27:29,251 - INFO -  conv_lstm2d_10 (ConvLSTM2D)    (None, None, 33, 1,  12936       ['tf.expand_dims_10[0][0]']      
+2025-01-09 09:27:29,251 - INFO -                                  33)                                                              
+2025-01-09 09:27:29,251 - INFO -                                                                                                   
+2025-01-09 09:27:29,251 - INFO -  conv_lstm2d_11 (ConvLSTM2D)    (None, None, 33, 1,  12936       ['tf.expand_dims_11[0][0]']      
+2025-01-09 09:27:29,252 - INFO -                                  33)                                                              
+2025-01-09 09:27:29,252 - INFO -                                                                                                   
+2025-01-09 09:27:29,252 - INFO -  tf.__operators__.getitem_10 (S  (None, None, 33, 33  0          ['conv_lstm2d_10[0][0]']         
+2025-01-09 09:27:29,252 - INFO -  licingOpLambda)                )                                                                 
+2025-01-09 09:27:29,252 - INFO -                                                                                                   
+2025-01-09 09:27:29,252 - INFO -  tf.__operators__.getitem_11 (S  (None, None, 33, 33  0          ['conv_lstm2d_11[0][0]']         
+2025-01-09 09:27:29,253 - INFO -  licingOpLambda)                )                                                                 
+2025-01-09 09:27:29,253 - INFO -                                                                                                   
+2025-01-09 09:27:29,253 - INFO -  tf.nn.leaky_relu_10 (TFOpLambd  (None, None, 33, 33  0          ['tf.__operators__.getitem_10[0][
+2025-01-09 09:27:29,254 - INFO -  a)                             )                                0]']                             
+2025-01-09 09:27:29,254 - INFO -                                                                                                   
+2025-01-09 09:27:29,254 - INFO -  tf.nn.leaky_relu_11 (TFOpLambd  (None, None, 33, 33  0          ['tf.__operators__.getitem_11[0][
+2025-01-09 09:27:29,254 - INFO -  a)                             )                                0]']                             
+2025-01-09 09:27:29,254 - INFO -                                                                                                   
+2025-01-09 09:27:29,255 - INFO -  tf.__operators__.add_13 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_10[0][0]']    
+2025-01-09 09:27:29,255 - INFO -  ambda)                         )                                                                 
+2025-01-09 09:27:29,255 - INFO -                                                                                                   
+2025-01-09 09:27:29,255 - INFO -  tf.__operators__.add_14 (TFOpL  (None, None, 33, 33  0          ['tf.nn.leaky_relu_11[0][0]']    
+2025-01-09 09:27:29,256 - INFO -  ambda)                         )                                                                 
+2025-01-09 09:27:29,256 - INFO -                                                                                                   
+2025-01-09 09:27:29,256 - INFO -  tf.nn.softmax_10 (TFOpLambda)  (None, None, 33, 33  0           ['tf.__operators__.add_13[0][0]']
+2025-01-09 09:27:29,256 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,256 - INFO -                                                                                                   
+2025-01-09 09:27:29,256 - INFO -  tf.nn.softmax_11 (TFOpLambda)  (None, None, 33, 33  0           ['tf.__operators__.add_14[0][0]']
+2025-01-09 09:27:29,256 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,257 - INFO -                                                                                                   
+2025-01-09 09:27:29,257 - INFO -  lambda_10 (Lambda)             (None, None, 33, 64  0           ['tf.nn.softmax_10[0][0]',       
+2025-01-09 09:27:29,257 - INFO -                                 )                                 'conv2d_31[0][0]']              
+2025-01-09 09:27:29,257 - INFO -                                                                                                   
+2025-01-09 09:27:29,257 - INFO -  lambda_11 (Lambda)             (None, None, 33, 64  0           ['tf.nn.softmax_11[0][0]',       
+2025-01-09 09:27:29,258 - INFO -                                 )                                 'conv2d_32[0][0]']              
+2025-01-09 09:27:29,258 - INFO -                                                                                                   
+2025-01-09 09:27:29,258 - INFO -  concatenate_16 (Concatenate)   (None, None, 33, 12  0           ['lambda_10[0][0]',              
+2025-01-09 09:27:29,258 - INFO -                                 8)                                'lambda_11[0][0]']              
+2025-01-09 09:27:29,258 - INFO -                                                                                                   
+2025-01-09 09:27:29,259 - INFO -  conv2d_33 (Conv2D)             (None, None, 33, 16  18448       ['concatenate_16[0][0]']         
+2025-01-09 09:27:29,259 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,259 - INFO -                                                                                                   
+2025-01-09 09:27:29,259 - INFO -  dropout_19 (Dropout)           (None, None, 33, 16  0           ['conv2d_33[0][0]']              
+2025-01-09 09:27:29,259 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,260 - INFO -                                                                                                   
+2025-01-09 09:27:29,260 - INFO -  conv2d_34 (Conv2D)             (None, None, 33, 16  3856        ['dropout_19[0][0]']             
+2025-01-09 09:27:29,260 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,260 - INFO -                                                                                                   
+2025-01-09 09:27:29,260 - INFO -  dropout_20 (Dropout)           (None, None, 33, 16  0           ['conv2d_34[0][0]']              
+2025-01-09 09:27:29,261 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,261 - INFO -                                                                                                   
+2025-01-09 09:27:29,261 - INFO -  conv2d_35 (Conv2D)             (None, None, 33, 16  5136        ['dropout_20[0][0]']             
+2025-01-09 09:27:29,261 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,261 - INFO -                                                                                                   
+2025-01-09 09:27:29,262 - INFO -  dropout_21 (Dropout)           (None, None, 33, 16  0           ['conv2d_35[0][0]']              
+2025-01-09 09:27:29,262 - INFO -                                 )                                                                 
+2025-01-09 09:27:29,262 - INFO -                                                                                                   
+2025-01-09 09:27:29,262 - INFO -  concatenate_17 (Concatenate)   (None, None, 33, 48  0           ['dropout_19[0][0]',             
+2025-01-09 09:27:29,262 - INFO -                                 )                                 'dropout_20[0][0]',             
+2025-01-09 09:27:29,262 - INFO -                                                                   'dropout_21[0][0]']             
+2025-01-09 09:27:29,263 - INFO -                                                                                                   
+2025-01-09 09:27:29,263 - INFO -  tf.__operators__.add_15 (TFOpL  (None, None, 33, 48  0          ['tf.__operators__.add_12[0][0]',
+2025-01-09 09:27:29,263 - INFO -  ambda)                         )                                 'concatenate_17[0][0]']         
+2025-01-09 09:27:29,263 - INFO -                                                                                                   
+2025-01-09 09:27:29,264 - INFO -  reshape_1 (Reshape)            (None, None, 1584)   0           ['tf.__operators__.add_15[0][0]']
+2025-01-09 09:27:29,265 - INFO -                                                                                                   
+2025-01-09 09:27:29,265 - INFO -  bidirectional_2 (Bidirectional  (None, None, 160)   1065600     ['reshape_1[0][0]']              
+2025-01-09 09:27:29,266 - INFO -  )                                                                                                
+2025-01-09 09:27:29,266 - INFO -                                                                                                   
+2025-01-09 09:27:29,266 - INFO -  dropout_22 (Dropout)           (None, None, 160)    0           ['bidirectional_2[0][0]']        
+2025-01-09 09:27:29,267 - INFO -                                                                                                   
+2025-01-09 09:27:29,267 - INFO -  gru_2 (GRU)                    (None, None, 40)     24240       ['dropout_22[0][0]']             
+2025-01-09 09:27:29,268 - INFO -                                                                                                   
+2025-01-09 09:27:29,268 - INFO -  dropout_23 (Dropout)           (None, None, 40)     0           ['gru_2[0][0]']                  
+2025-01-09 09:27:29,268 - INFO -                                                                                                   
+2025-01-09 09:27:29,269 - INFO -  bidirectional_3 (Bidirectional  (None, None, 80)    25920       ['dropout_23[0][0]']             
+2025-01-09 09:27:29,270 - INFO -  )                                                                                                
+2025-01-09 09:27:29,271 - INFO -                                                                                                   
+2025-01-09 09:27:29,271 - INFO -  dropout_24 (Dropout)           (None, None, 80)     0           ['bidirectional_3[0][0]']        
+2025-01-09 09:27:29,271 - INFO -                                                                                                   
+2025-01-09 09:27:29,271 - INFO -  gru_3 (GRU)                    (None, 80)           38880       ['dropout_24[0][0]']             
+2025-01-09 09:27:29,272 - INFO -                                                                                                   
+2025-01-09 09:27:29,272 - INFO -  dropout_25 (Dropout)           (None, 80)           0           ['gru_3[0][0]']                  
+2025-01-09 09:27:29,272 - INFO -                                                                                                   
+2025-01-09 09:27:29,272 - INFO -  dense_1 (Dense)                (None, 100)          8100        ['dropout_25[0][0]']             
+2025-01-09 09:27:29,274 - INFO -                                                                                                   
+2025-01-09 09:27:29,274 - INFO - ==================================================================================================
+2025-01-09 09:27:29,276 - INFO - Total params: 1,417,524
+2025-01-09 09:27:29,277 - INFO - Trainable params: 1,417,524
+2025-01-09 09:27:29,277 - INFO - Non-trainable params: 0
+2025-01-09 09:27:29,277 - INFO - __________________________________________________________________________________________________
+2025-01-09 09:27:29,279 - INFO - 
+Parameter Summary:
+2025-01-09 09:27:29,279 - INFO - --------------------------------------------------
+2025-01-09 09:27:29,280 - INFO - Total Parameters: 1,417,524.0
+2025-01-09 09:27:29,280 - INFO - Trainable Parameters: 1,417,524
+2025-01-09 09:27:29,280 - INFO - Non-trainable Parameters: 0.0
+2025-01-09 09:27:29,280 - INFO - --------------------------------------------------
+2025-01-09 09:27:29,280 - INFO - 
+Parameters by Layer:
+2025-01-09 09:27:29,281 - INFO - --------------------------------------------------
+2025-01-09 09:27:29,281 - INFO - Layer Name                     Output Shape         Param #      Trainable
+2025-01-09 09:27:29,281 - INFO - --------------------------------------------------
+2025-01-09 09:27:29,281 - INFO - input_2                        [(None, None, 33, 3)] 0            Yes
+2025-01-09 09:27:29,282 - INFO - conv2d_18                      (None, None, 33, 64) 1,792        Yes
+2025-01-09 09:27:29,282 - INFO - concatenate_9                  (None, None, 33, 67) 0            Yes
+2025-01-09 09:27:29,283 - INFO - conv2d_19                      (None, None, 33, 64) 4,352        Yes
+2025-01-09 09:27:29,283 - INFO - conv2d_20                      (None, None, 33, 64) 4,352        Yes
+2025-01-09 09:27:29,283 - INFO - tf.expand_dims_6               (None, None, 33, 1, 64) 0            Yes
+2025-01-09 09:27:29,284 - INFO - tf.expand_dims_7               (None, None, 33, 1, 64) 0            Yes
+2025-01-09 09:27:29,284 - INFO - conv_lstm2d_6                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-09 09:27:29,284 - INFO - conv_lstm2d_7                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-09 09:27:29,285 - INFO - tf.__operators__.getitem_6     (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,285 - INFO - tf.__operators__.getitem_7     (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,285 - INFO - tf.nn.leaky_relu_6             (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,285 - INFO - tf.nn.leaky_relu_7             (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,286 - INFO - tf.__operators__.add_8         (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,286 - INFO - tf.__operators__.add_9         (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,286 - INFO - tf.nn.softmax_6                (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,287 - INFO - tf.nn.softmax_7                (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,287 - INFO - lambda_6                       (None, None, 33, 64) 0            Yes
+2025-01-09 09:27:29,287 - INFO - lambda_7                       (None, None, 33, 64) 0            Yes
+2025-01-09 09:27:29,287 - INFO - concatenate_10                 (None, None, 33, 128) 0            Yes
+2025-01-09 09:27:29,288 - INFO - conv2d_21                      (None, None, 33, 16) 18,448       Yes
+2025-01-09 09:27:29,288 - INFO - dropout_13                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,288 - INFO - conv2d_22                      (None, None, 33, 16) 3,856        Yes
+2025-01-09 09:27:29,288 - INFO - dropout_14                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,289 - INFO - conv2d_23                      (None, None, 33, 16) 5,136        Yes
+2025-01-09 09:27:29,289 - INFO - dropout_15                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,289 - INFO - concatenate_11                 (None, None, 33, 48) 0            Yes
+2025-01-09 09:27:29,290 - INFO - conv2d_24                      (None, None, 33, 64) 27,712       Yes
+2025-01-09 09:27:29,290 - INFO - concatenate_12                 (None, None, 33, 112) 0            Yes
+2025-01-09 09:27:29,290 - INFO - conv2d_25                      (None, None, 33, 64) 7,232        Yes
+2025-01-09 09:27:29,291 - INFO - conv2d_26                      (None, None, 33, 64) 7,232        Yes
+2025-01-09 09:27:29,291 - INFO - tf.expand_dims_8               (None, None, 33, 1, 64) 0            Yes
+2025-01-09 09:27:29,291 - INFO - tf.expand_dims_9               (None, None, 33, 1, 64) 0            Yes
+2025-01-09 09:27:29,291 - INFO - conv_lstm2d_8                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-09 09:27:29,292 - INFO - conv_lstm2d_9                  (None, None, 33, 1, 33) 12,936       Yes
+2025-01-09 09:27:29,292 - INFO - tf.__operators__.getitem_8     (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,292 - INFO - tf.__operators__.getitem_9     (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,293 - INFO - tf.nn.leaky_relu_8             (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,293 - INFO - tf.nn.leaky_relu_9             (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,293 - INFO - tf.__operators__.add_10        (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,293 - INFO - tf.__operators__.add_11        (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,294 - INFO - tf.nn.softmax_8                (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,294 - INFO - tf.nn.softmax_9                (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,294 - INFO - lambda_8                       (None, None, 33, 64) 0            Yes
+2025-01-09 09:27:29,294 - INFO - lambda_9                       (None, None, 33, 64) 0            Yes
+2025-01-09 09:27:29,294 - INFO - concatenate_13                 (None, None, 33, 128) 0            Yes
+2025-01-09 09:27:29,295 - INFO - conv2d_27                      (None, None, 33, 16) 18,448       Yes
+2025-01-09 09:27:29,295 - INFO - dropout_16                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,296 - INFO - conv2d_28                      (None, None, 33, 16) 3,856        Yes
+2025-01-09 09:27:29,296 - INFO - dropout_17                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,297 - INFO - conv2d_29                      (None, None, 33, 16) 5,136        Yes
+2025-01-09 09:27:29,297 - INFO - dropout_18                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,298 - INFO - concatenate_14                 (None, None, 33, 48) 0            Yes
+2025-01-09 09:27:29,298 - INFO - tf.__operators__.add_12        (None, None, 33, 48) 0            Yes
+2025-01-09 09:27:29,299 - INFO - conv2d_30                      (None, None, 33, 64) 27,712       Yes
+2025-01-09 09:27:29,299 - INFO - concatenate_15                 (None, None, 33, 112) 0            Yes
+2025-01-09 09:27:29,299 - INFO - conv2d_31                      (None, None, 33, 64) 7,232        Yes
+2025-01-09 09:27:29,300 - INFO - conv2d_32                      (None, None, 33, 64) 7,232        Yes
+2025-01-09 09:27:29,300 - INFO - tf.expand_dims_10              (None, None, 33, 1, 64) 0            Yes
+2025-01-09 09:27:29,300 - INFO - tf.expand_dims_11              (None, None, 33, 1, 64) 0            Yes
+2025-01-09 09:27:29,301 - INFO - conv_lstm2d_10                 (None, None, 33, 1, 33) 12,936       Yes
+2025-01-09 09:27:29,301 - INFO - conv_lstm2d_11                 (None, None, 33, 1, 33) 12,936       Yes
+2025-01-09 09:27:29,301 - INFO - tf.__operators__.getitem_10    (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,302 - INFO - tf.__operators__.getitem_11    (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,302 - INFO - tf.nn.leaky_relu_10            (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,302 - INFO - tf.nn.leaky_relu_11            (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,303 - INFO - tf.__operators__.add_13        (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,303 - INFO - tf.__operators__.add_14        (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,303 - INFO - tf.nn.softmax_10               (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,304 - INFO - tf.nn.softmax_11               (None, None, 33, 33) 0            Yes
+2025-01-09 09:27:29,304 - INFO - lambda_10                      (None, None, 33, 64) 0            Yes
+2025-01-09 09:27:29,304 - INFO - lambda_11                      (None, None, 33, 64) 0            Yes
+2025-01-09 09:27:29,305 - INFO - concatenate_16                 (None, None, 33, 128) 0            Yes
+2025-01-09 09:27:29,305 - INFO - conv2d_33                      (None, None, 33, 16) 18,448       Yes
+2025-01-09 09:27:29,305 - INFO - dropout_19                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,306 - INFO - conv2d_34                      (None, None, 33, 16) 3,856        Yes
+2025-01-09 09:27:29,306 - INFO - dropout_20                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,306 - INFO - conv2d_35                      (None, None, 33, 16) 5,136        Yes
+2025-01-09 09:27:29,306 - INFO - dropout_21                     (None, None, 33, 16) 0            Yes
+2025-01-09 09:27:29,307 - INFO - concatenate_17                 (None, None, 33, 48) 0            Yes
+2025-01-09 09:27:29,307 - INFO - tf.__operators__.add_15        (None, None, 33, 48) 0            Yes
+2025-01-09 09:27:29,307 - INFO - reshape_1                      (None, None, 1584)   0            Yes
+2025-01-09 09:27:29,308 - INFO - bidirectional_2                (None, None, 160)    1,065,600    Yes
+2025-01-09 09:27:29,308 - INFO - dropout_22                     (None, None, 160)    0            Yes
+2025-01-09 09:27:29,308 - INFO - gru_2                          (None, None, 40)     24,240       Yes
+2025-01-09 09:27:29,308 - INFO - dropout_23                     (None, None, 40)     0            Yes
+2025-01-09 09:27:29,309 - INFO - bidirectional_3                (None, None, 80)     25,920       Yes
+2025-01-09 09:27:29,309 - INFO - dropout_24                     (None, None, 80)     0            Yes
+2025-01-09 09:27:29,310 - INFO - gru_3                          (None, 80)           38,880       Yes
+2025-01-09 09:27:29,310 - INFO - dropout_25                     (None, 80)           0            Yes
+2025-01-09 09:27:29,311 - INFO - dense_1                        (None, 100)          8,100        Yes
+2025-01-09 09:27:29,311 - INFO - --------------------------------------------------
+2025-01-09 09:27:29,311 - INFO - 
+Starting Training...
