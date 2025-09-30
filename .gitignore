@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# TensorFlow/Keras Models (too large for GitHub)
+*.hdf5
+*.h5
+*.pb
+models/*.hdf5
+models/*.h5
+best_*.hdf5
+
+# Large dataset files
+Data/*.csv
+Data/*.avi
+Data/*.mp4
+Data/UP-FALL/
+Data/UMAFall/
+
+# Training logs and results
+logs/*.log
+results/*.png
+results/*.pdf
+plots/*.png
+
